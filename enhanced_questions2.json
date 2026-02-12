@@ -1,0 +1,2786 @@
+[
+  {
+    "question": "Which letter comes after 'B'?",
+    "choices": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "C",
+    "category": "Letters",
+    "versions": [
+      "Which letter comes after 'B'?",
+      "What letter follows the letter 'B' in alphabetic order?",
+      "What letter follows the letter 'B'?",
+      "What is the following letter of the letter 'B'?"
+    ],
+    "versions_ar": [
+      "إيه حرف تأتي بعد حرف \"ب\"؟",
+      "ما هي الحرف التالية للحرف \"ب\" بالترتيب الأبجدي؟",
+      "ما هي الحرف التالية للحرف \"ب\"؟",
+      "ما هي الحرف التالية للحرف \"ب\"؟"
+    ],
+    "choices_ar": [
+      "A A",
+      "م ج",
+      "د/",
+      "E E"
+    ],
+    "answer_ar": "م ج",
+    "category_ar": ""
+  },
+  {
+    "question": "What is the first letter of the word 'Apple'?",
+    "choices": [
+      "A",
+      "P",
+      "E",
+      "L"
+    ],
+    "answer": "A",
+    "category": "Letters",
+    "versions": [
+      "What is the first letter of the word 'Apple'?",
+      "What is the initial character of the word 'Apple'?",
+      "What is the opening letter of the word 'Apple'?",
+      "What is the initial letter of the word 'Apple'?"
+    ],
+    "versions_ar": [
+      "ما هو الحرف الأول لكلمة \"إبل\"؟",
+      "ما هي الشخصية الأولية لكلمة \"أبل\"؟",
+      "ما هي الحرف الافتتاحية لكلمة \"إبل\"؟",
+      "ما هو الحرف الأولي لكلمة \"إبل\"؟"
+    ],
+    "choices_ar": [
+      "A A",
+      "م ف ف",
+      "E E",
+      "L"
+    ],
+    "answer_ar": "A A",
+    "category_ar": ""
+  },
+  {
+    "question": "Which word starts with the letter 'D'?",
+    "choices": [
+      "Car",
+      "Dog",
+      "Apple",
+      "Sun"
+    ],
+    "answer": "Dog",
+    "category": "Words",
+    "versions": [
+      "Which word starts with the letter 'D'?",
+      "What is a word that starts with the letter 'D'?",
+      "What is the word that starts with the letter 'D'?",
+      "What word starts with the letter 'D'?"
+    ],
+    "versions_ar": [
+      "إيه كلمة تبدأ بالحرف \"د\"؟",
+      "ما هي الكلمة اللي تبدأ بالحرف \"د\"؟",
+      "ما هي الكلمة اللي تبدأ بالحرف \"د\"؟",
+      "ما الكلمة اللي تبدأ بالحرف \"د\"؟"
+    ],
+    "choices_ar": [
+      "سيارة",
+      "",
+      "",
+      "صنس"
+    ],
+    "answer_ar": "",
+    "category_ar": ""
+  },
+  {
+    "question": "What is the missing word? 'The cat is ____ the box.'",
+    "choices": [
+      "in",
+      "on",
+      "under",
+      "at"
+    ],
+    "answer": "in",
+    "category": "Sentences",
+    "versions": [
+      "What is the missing word? 'The cat is ____ the box.'",
+      "What is the missing word in this sentence? 'The cat is ____ the box.",
+      "What is the missing word? 'The cat is ____ the box.",
+      "What is the missing letter? 'The cat is ____ the box."
+    ],
+    "versions_ar": [
+      "ما هي الكلمة المفقودة؟ القطة هي الصندوق",
+      "ما هي الكلمة الناقصة في هذه الجُمله؟ 'القط هو _ الصندوق.",
+      "ما هي الكلمة المفقودة؟ القطة هي الصندوق.",
+      "ما هي الحرف المفقودة؟ القطة هي الصندوق."
+    ],
+    "choices_ar": [
+      "في",
+      "بما في ده",
+      "ق",
+      "مجلس"
+    ],
+    "answer_ar": "في",
+    "category_ar": ""
+  },
+  {
+    "question": "Which of these is a complete sentence?",
+    "choices": [
+      "Running fast",
+      "The boy runs",
+      "Very happy",
+      "In the school"
+    ],
+    "answer": "The boy runs",
+    "category": "Sentences",
+    "versions": [
+      "Which of these is a complete sentence?",
+      "Which one of these sentences is a complete one?",
+      "Which of the following is a sentence that is complete?",
+      "Which of the following is a complete sentence?"
+    ],
+    "versions_ar": [
+      "إيه من هذه هي الجُمله الكاملة؟",
+      "إيه واحد من هذه الجمل هو واحد كامل؟",
+      "إيه من ما يلي هو الجُمله الكاملة؟",
+      "إيه من التالي هو الجُمله الكاملة؟"
+    ],
+    "choices_ar": [
+      "يجري بسرعة",
+      "الولد يركض",
+      "سعيد جداً",
+      "في المدرسة"
+    ],
+    "answer_ar": "الولد يركض",
+    "category_ar": ""
+  },
+  {
+    "question": "Which word does not belong?",
+    "choices": [
+      "Apple",
+      "Banana",
+      "Chair",
+      "Orange"
+    ],
+    "answer": "Chair",
+    "category": "Words",
+    "versions": [
+      "Which word does not belong?",
+      "What is an untruthful word?",
+      "What is a word that is not suitable?",
+      "Which word is not a valid option?"
+    ],
+    "versions_ar": [
+      "إيه كلمة لا تنتمي؟",
+      "ما هي كلمة غير حقيقية؟",
+      "ما هي الكلمة غير المناسبة ؟",
+      "إيه كلمة ليست خياراً صحيحاً؟"
+    ],
+    "choices_ar": [
+      "",
+      "",
+      "الرئيس",
+      "1 ف-4، 1 ف-3، 1 خ م، 1 خ ع (رأ)، 1 خ ع (رأ)"
+    ],
+    "answer_ar": "الرئيس",
+    "category_ar": ""
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "choices": [
+      "I like play",
+      "I playing",
+      "I like to play",
+      "Like I play"
+    ],
+    "answer": "I like to play",
+    "category": "Sentences",
+    "versions": [
+      "Choose the correct sentence:",
+      "Which sentence is correct?",
+      "What is the appropriate sentence?"
+    ],
+    "versions_ar": [
+      "انتقِ:",
+      "ما هي الجُمله الصحيحة؟",
+      "ما هي الجُمله المناسبة؟"
+    ],
+    "choices_ar": [
+      "أحب اللعب",
+      "أنا ألعب",
+      "أحب أن ألعب",
+      "مثل ما ألعب"
+    ],
+    "answer_ar": "أحب أن ألعب",
+    "category_ar": ""
+  },
+  {
+    "question": "What is the opposite of 'hot'?",
+    "choices": [
+      "cold",
+      "warm",
+      "fire",
+      "heat"
+    ],
+    "answer": "cold",
+    "category": "Words",
+    "versions": [
+      "What is the opposite of 'hot'?",
+      "What is the antonym of 'hot'?",
+      "What is the opposite meaning of 'hot'?",
+      "What is the reverse meaning of 'hot'?"
+    ],
+    "versions_ar": [
+      "ما هو عكس \"الإثارة\"؟",
+      "ما هو اسم \"هوت\"؟",
+      "ما هو المعنى المقابل لـ \"هوت\"؟",
+      "ما هو المعنى العكسي لـ \"هوت\"؟"
+    ],
+    "choices_ar": [
+      "*..",
+      "مــن",
+      "إطلاق نار",
+      "درجة الحرارة"
+    ],
+    "answer_ar": "*..",
+    "category_ar": ""
+  },
+  {
+    "question": "Which one is a verb?",
+    "choices": [
+      "Run",
+      "Blue",
+      "Chair",
+      "Apple"
+    ],
+    "answer": "Run",
+    "category": "Words",
+    "versions": [
+      "Which one is a verb?",
+      "What is a verb?",
+      "What is a noun?",
+      "What is a form of a verb?"
+    ],
+    "versions_ar": [
+      "إيه واحد هو الفعل؟",
+      "ما هو الفعل؟",
+      "ما هو العبد؟",
+      "ما هو شكل الفعل؟"
+    ],
+    "choices_ar": [
+      "تنفيذ تنفيذ",
+      "طائرة من طراز LCS",
+      "الرئيس",
+      ""
+    ],
+    "answer_ar": "تنفيذ تنفيذ",
+    "category_ar": ""
+  },
+  {
+    "question": "What is the plural of 'cat'?",
+    "choices": [
+      "Cats",
+      "Cated",
+      "Cat",
+      "Cattes"
+    ],
+    "answer": "Cats",
+    "category": "Words",
+    "versions": [
+      "What is the plural of 'cat'?",
+      "Can you tell me the plural of 'cat'?",
+      "What is the plural of the word 'cat'?",
+      "What is the plural form of the word 'cat'?"
+    ],
+    "versions_ar": [
+      "ما هو الجمع بين \"كات\"؟",
+      "هل يمكنك أن تخبرني بصيغة \"كات\"؟",
+      "ما هو الجمع بين كلمة \"كات\"؟",
+      "ما هو شكل الجمع لكلمة \"كات\"؟"
+    ],
+    "choices_ar": [
+      "",
+      "المُنْطِكَة",
+      "كات",
+      "سِِِِ كِِِِ سِِِ"
+    ],
+    "answer_ar": "",
+    "category_ar": ""
+  },
+  {
+    "question": "Choose the correct article: ___ apple",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "Some"
+    ],
+    "answer": "An",
+    "category": "Sentences",
+    "versions": [
+      "Choose the correct article: ___ apple",
+      "What is the appropriate choice: __ apple?",
+      "What is the right choice: apple ___?",
+      "Which article is appropriate: __ apple?"
+    ],
+    "versions_ar": [
+      "اختر المقالة الصحيحة: _ تفاح",
+      "ما هو الخيار المناسب: _ تفاح؟",
+      "ما هو الخيار الصحيح: تفاح _؟",
+      "ما هي المادة المناسبة: _ تفاح؟"
+    ],
+    "choices_ar": [
+      "A A",
+      "A",
+      "الـ",
+      "بعض"
+    ],
+    "answer_ar": "A",
+    "category_ar": ""
+  },
+  {
+    "question": "What is the last letter in 'Dog'?",
+    "choices": [
+      "D",
+      "G",
+      "O",
+      "T"
+    ],
+    "answer": "G",
+    "category": "Letters",
+    "versions": [
+      "What is the last letter in 'Dog'?",
+      "What is the ending pronoun used in the title 'Dog'?",
+      "What is the concluding letter of 'Dog'?",
+      "What is the letter that completes 'Dog'?"
+    ],
+    "versions_ar": [
+      "ما هو الحرف الأخير في \"الكلب\"؟",
+      "ما هو البيان النهائي المستخدم في العنوان 'الكلب'؟",
+      "ما هي الحرف الختامية من \"الكلب\"؟",
+      "ما هي الحرف اللي تكمل \"الكلب\"؟"
+    ],
+    "choices_ar": [
+      "د/",
+      "",
+      "مان",
+      "ألف"
+    ],
+    "answer_ar": "",
+    "category_ar": ""
+  },
+  {
+    "question": "Which sentence describes a happy feeling?",
+    "choices": [
+      "She is crying",
+      "He is jumping with joy",
+      "They are sad",
+      "The dog is barking"
+    ],
+    "answer": "He is jumping with joy",
+    "category": "Comprehension",
+    "versions": [
+      "Which sentence describes a happy feeling?",
+      "What is the word that characterizes a positive feeling?",
+      "What is the word that characterizes a feeling of joy and happiness?",
+      "What is the word that characterizes a feeling of joy?"
+    ],
+    "versions_ar": [
+      "إيه جُمله تصف شعوراً سعيداً؟",
+      "ما هي الكلمة اللي تصف شعورا ايجابيا ؟",
+      "ما هي الكلمة اللي تميز الشعور بالفرح والسعادة ؟",
+      "ما هي الكلمة اللي تصف شعورا بالفرح ؟"
+    ],
+    "choices_ar": [
+      "إنها تبكي",
+      "هو يقفز بفرح",
+      "هم يَحْزونَ",
+      "الكلب ينبح"
+    ],
+    "answer_ar": "هو يقفز بفرح",
+    "category_ar": "عدد"
+  },
+  {
+    "question": "What do you do with a book?",
+    "choices": [
+      "Eat",
+      "Read",
+      "Throw",
+      "Sit"
+    ],
+    "answer": "Read",
+    "category": "Comprehension",
+    "versions": [
+      "What do you do with a book?",
+      "What do you typically do with a book?",
+      "How do you utilize a book?",
+      "What is your approach to using a book?"
+    ],
+    "versions_ar": [
+      "ماذا تفعل بكتاب؟",
+      "ما الذي تفعله عادة بكتاب؟",
+      "كيف تستخدم كتاب؟",
+      "ما هو نهجك في استخدام كتاب ؟"
+    ],
+    "choices_ar": [
+      "كل من كل كلكل",
+      "re rech",
+      "(القاء)",
+      "الجلوس"
+    ],
+    "answer_ar": "re rech",
+    "category_ar": "عدد"
+  },
+  {
+    "question": "Which sentence is about food?",
+    "choices": [
+      "The bird flies",
+      "He eats pizza",
+      "The sky is blue",
+      "They run fast"
+    ],
+    "answer": "He eats pizza",
+    "category": "Comprehension",
+    "versions": [
+      "Which sentence is about food?",
+      "What sentence pertains to the topic of food?",
+      "What is the food related sentence?",
+      "What is the food-related sentence?"
+    ],
+    "versions_ar": [
+      "إيه جُمله هي عن الطعام؟",
+      "ما هي الجُمله اللي تتعلق بموضوع الغذاء؟",
+      "ما هي الجُمله المتعلقة بالطعام؟",
+      "ما هو الحكم المتعلق بالغذاء؟"
+    ],
+    "choices_ar": [
+      "الطيران",
+      "إنه يأكل البيتزا",
+      "السماء زرقاء",
+      "يركضون مسرعين"
+    ],
+    "answer_ar": "إنه يأكل البيتزا",
+    "category_ar": "عدد"
+  },
+  {
+    "question": "Find the question sentence:",
+    "choices": [
+      "He likes apples",
+      "Do you like apples?",
+      "Apples are tasty",
+      "I eat apples"
+    ],
+    "answer": "Do you like apples?",
+    "category": "Sentences",
+    "versions": [
+      "Find the question sentence:",
+      "Find the question sentence?"
+    ],
+    "versions_ar": [
+      "اوجد جُمله السؤال:",
+      "هل وجدت جُمله السؤال؟"
+    ],
+    "choices_ar": [
+      "يحبّ تفاح",
+      "هل تحب التفاح؟",
+      "تُؤجج المُسَتَع",
+      "أنا آكل تفاح"
+    ],
+    "answer_ar": "هل تحب التفاح؟",
+    "category_ar": ""
+  },
+  {
+    "question": "Which of these words is a color?",
+    "choices": [
+      "Run",
+      "Blue",
+      "Eat",
+      "Happy"
+    ],
+    "answer": "Blue",
+    "category": "Words",
+    "versions": [
+      "Which of these words is a color?",
+      "What is the name of the color in these words?",
+      "What is the name of the color in this word?",
+      "Which one of these words is a shade?"
+    ],
+    "versions_ar": [
+      "إيه من هذه الكلمات هو لون؟",
+      "ما هو اسم اللون في هذه الكلمات؟",
+      "ما هو اسم اللون في هذه الكلمة؟",
+      "إيه واحدة من هذه الكلمات هي الظل؟"
+    ],
+    "choices_ar": [
+      "تنفيذ تنفيذ",
+      "طائرة من طراز LCS",
+      "كل من كل كلكل",
+      "سعيد سعيد"
+    ],
+    "answer_ar": "طائرة من طراز LCS",
+    "category_ar": ""
+  },
+  {
+    "question": "Which one is a question word?",
+    "choices": [
+      "Why",
+      "Book",
+      "Chair",
+      "Dog"
+    ],
+    "answer": "Why",
+    "category": "Words",
+    "versions": [
+      "Which one is a question word?",
+      "What is the name of a word used in asking questions?",
+      "What is a word that can be used as a prompt?",
+      "What is the name of a word used to ask questions?"
+    ],
+    "versions_ar": [
+      "إيههما كلمة سؤال؟",
+      "ما هو اسم الكلمة المستخدمة في طرح الأسئلة؟",
+      "ما هي الكلمة اللي يمكن استخدامها كمسرِّع ؟",
+      "ما هو اسم الكلمة المستخدمة لطرح الأسئلة؟"
+    ],
+    "choices_ar": [
+      "ألف -",
+      "كتاب",
+      "الرئيس",
+      ""
+    ],
+    "answer_ar": "ألف -",
+    "category_ar": ""
+  },
+  {
+    "question": "What do you do at night?",
+    "choices": [
+      "Eat breakfast",
+      "Sleep",
+      "Go to school",
+      "Play in sun"
+    ],
+    "answer": "Sleep",
+    "category": "Comprehension",
+    "versions": [
+      "What do you do at night?",
+      "What activities do you engage in during the evening?",
+      "What activities do you engage in during the evening hours?",
+      "What activities do you engage in during the night?"
+    ],
+    "versions_ar": [
+      "ماذا تفعل في الليل؟",
+      "ما الأنشطة اللي تقوم بها أثناء المساء؟",
+      "ما الأنشطة اللي تقوم بها أثناء ساعات المساء؟",
+      "ما الأنشطة اللي تقوم بها أثناء الليل؟"
+    ],
+    "choices_ar": [
+      "",
+      "النوم",
+      "الذهاب إلى المدرسة",
+      "اللعب في الشمس"
+    ],
+    "answer_ar": "النوم",
+    "category_ar": "عدد"
+  },
+  {
+    "question": "Which sentence tells about the weather?",
+    "choices": [
+      "It is raining",
+      "He runs fast",
+      "She is happy",
+      "They eat apples"
+    ],
+    "answer": "It is raining",
+    "category": "Comprehension",
+    "versions": [
+      "Which sentence tells about the weather?",
+      "What is an example of a sentence that talks about the weather?",
+      "Can you construct a sentence that describes the weather?",
+      "What is a sentence that describes the weather?"
+    ],
+    "versions_ar": [
+      "ما الجُمله اللي تقول عن الطقس؟",
+      "ما هو مثال لجُمله تتحدث عن الطقس؟",
+      "هل يمكنك بناء جُمله تصف الطقس؟",
+      "ما هي الجُمله اللي تصف الطقس؟"
+    ],
+    "choices_ar": [
+      "هو يَمْسُ مطر",
+      "يركض مسرعاً",
+      "هي سعيدة",
+      "يَأْكلونَ"
+    ],
+    "answer_ar": "هو يَمْسُ مطر",
+    "category_ar": "عدد"
+  },
+  {
+    "question": "What is 7 + 5?",
+    "choices": [
+      "13",
+      "12",
+      "11",
+      "14"
+    ],
+    "answer": "12",
+    "category": "Math",
+    "versions": [
+      "What is 7 + 5?",
+      "What is the result of adding 5 to the total of 7?",
+      "What is the sum of 7 and 5?",
+      "What is the result of adding 7 and 5?"
+    ],
+    "versions_ar": [
+      "ما هو 7 + 5؟",
+      "ما هي نتيجة إضافة 5 إلى المجموع 7؟",
+      "ما هو مجموع 7 و 5؟",
+      "ما هي نتيجة إضافة 7 و5؟"
+    ],
+    "choices_ar": [
+      "13",
+      "",
+      "",
+      "٤١"
+    ],
+    "answer_ar": "",
+    "category_ar": "الرياضيات"
+  },
+  {
+    "question": "How much is 18 - 9?",
+    "choices": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer": "9",
+    "category": "Math",
+    "versions": [
+      "How much is 18 - 9?",
+      "What is the result of subtracting 9 from 18?",
+      "What is the sum of 18 and 9?",
+      "What is the value of 18 raised to the 9th power?"
+    ],
+    "versions_ar": [
+      "كم هو 18-9؟",
+      "ما هي نتيجة طرح 9 من 18؟",
+      "ما هو مجموع 18 و 9؟",
+      "ما هي قيمة 18 مرفوعة للقوة التاسعة؟"
+    ],
+    "choices_ar": [
+      "::",
+      "8 8",
+      "٠١",
+      "7 7"
+    ],
+    "answer_ar": "::",
+    "category_ar": "الرياضيات"
+  },
+  {
+    "question": "What is 4 x 4?",
+    "choices": [
+      "12",
+      "16",
+      "14",
+      "18"
+    ],
+    "answer": "16",
+    "category": "Math",
+    "versions": [
+      "What is 4 x 4?",
+      "What is the outcome of 4 multiplied by itself?",
+      "What is the answer to 4 multiplied by 4?",
+      "What is the result of 4 multiplied by itself?"
+    ],
+    "versions_ar": [
+      "ما هو 4x4؟",
+      "ما هي نتيجة 4 مضروبة في نفسها؟",
+      "ما هو الاجابة لـ 4 × 4؟",
+      "ما هي نتيجة 4 مضروبة في نفسها؟"
+    ],
+    "choices_ar": [
+      "",
+      "١٦",
+      "٤١",
+      "١٨"
+    ],
+    "answer_ar": "١٦",
+    "category_ar": "الرياضيات"
+  },
+  {
+    "question": "What is 20 ÷ 5?",
+    "choices": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "4",
+    "category": "Math",
+    "versions": [
+      "What is 20 ÷ 5?",
+      "What is the result of multiplying 20 by 5?",
+      "What is the result of multiplying 20 and 5?",
+      "What is the value of 20 to the power of 5?"
+    ],
+    "versions_ar": [
+      "ما هو 20^5؟",
+      "ما هي نتيجة ضرب 20 في 5؟",
+      "ما هي نتيجة ضرب 20 و 5؟",
+      "ما هي قيمة 20^5؟"
+    ],
+    "choices_ar": [
+      "3 3",
+      "5 و 5",
+      "٤",
+      "6 6"
+    ],
+    "answer_ar": "٤",
+    "category_ar": "الرياضيات"
+  },
+  {
+    "question": "What is 6 + 9?",
+    "choices": [
+      "14",
+      "15",
+      "16",
+      "13"
+    ],
+    "answer": "15",
+    "category": "Math",
+    "versions": [
+      "What is 6 + 9?",
+      "What is the sum of 6 and 9?",
+      "What is the result of adding 6 and 9?",
+      "What is the total of 6 and 9?"
+    ],
+    "versions_ar": [
+      "ما هو 6+9؟",
+      "ما هو مجموع 6 و9؟",
+      "ما هي نتيجة إضافة 6 و9؟",
+      "ما هو مجموع 6 و 9؟"
+    ],
+    "choices_ar": [
+      "٤١",
+      "١٥",
+      "١٦",
+      "13"
+    ],
+    "answer_ar": "١٥",
+    "category_ar": "الرياضيات"
+  },
+  {
+    "question": "How much is 10 - 7?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3",
+    "category": "Math",
+    "versions": [
+      "How much is 10 - 7?",
+      "What is the answer to 10 multiplied by 7?",
+      "What is the total of 10 and 7?",
+      "What is the numerical worth of 10 to 7?"
+    ],
+    "versions_ar": [
+      "كم هو 10-7؟",
+      "ما هو الاجابة لـ 10 مضروبة في 7؟",
+      "ما هو المجموع 10 و 7؟",
+      "ما هي القيمة العددية لـ 10 إلى 7؟"
+    ],
+    "choices_ar": [
+      "فريقان",
+      "3 3",
+      "٤",
+      "5 و 5"
+    ],
+    "answer_ar": "3 3",
+    "category_ar": "الرياضيات"
+  },
+  {
+    "question": "What is 5 x 3?",
+    "choices": [
+      "15",
+      "12",
+      "10",
+      "18"
+    ],
+    "answer": "15",
+    "category": "Math",
+    "versions": [
+      "What is 5 x 3?",
+      "What is the result of multiplying 5 and 3?",
+      "What is the result of multiplying 5 and then adding 2/3?",
+      "What is the outcome of multiplying 5 and 3?"
+    ],
+    "versions_ar": [
+      "ما هو 5x3؟",
+      "ما هي نتيجة ضرب 5 و 3؟",
+      "ما هي نتيجة ضرب 5 ومن ثم إضافة 2/3؟",
+      "ما هي نتيجة ضرب 5 و 3؟"
+    ],
+    "choices_ar": [
+      "١٥",
+      "",
+      "٠١",
+      "١٨"
+    ],
+    "answer_ar": "١٥",
+    "category_ar": "الرياضيات"
+  },
+  {
+    "question": "What is 16 ÷ 4?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "category": "Math",
+    "versions": [
+      "What is 16 ÷ 4?",
+      "What is the answer when 16 is divided by 4?",
+      "What is the answer when 16 is multiplied by 4?",
+      "What is the square root of 16?"
+    ],
+    "versions_ar": [
+      "ما هو 16/4؟",
+      "ما هو الاجابة عندما 16 مقسومة على 4؟",
+      "ما هو الاجابة عندما تكون 16 مضروبة في 4؟",
+      "ما هو الجذر التربيعي لـ 16؟"
+    ],
+    "choices_ar": [
+      "فريقان",
+      "3 3",
+      "٤",
+      "5 و 5"
+    ],
+    "answer_ar": "٤",
+    "category_ar": "الرياضيات"
+  },
+  {
+    "question": "What is 2 + 8?",
+    "choices": [
+      "10",
+      "11",
+      "9",
+      "8"
+    ],
+    "answer": "10",
+    "category": "Math",
+    "versions": [
+      "What is 2 + 8?",
+      "What is the result of adding 2 and 8?",
+      "What is the solution to 2 plus 8?",
+      "What is the sum of 2 and 8?"
+    ],
+    "versions_ar": [
+      "ما هو 2 + 8؟",
+      "ما هي نتيجة إضافة 2 و8؟",
+      "ما هو الحل لـ 2 + 8؟",
+      "ما هو مجموع 2 و8؟"
+    ],
+    "choices_ar": [
+      "٠١",
+      "",
+      "::",
+      "8 8"
+    ],
+    "answer_ar": "٠١",
+    "category_ar": "الرياضيات"
+  },
+  {
+    "question": "What is 9 x 1?",
+    "choices": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ],
+    "answer": "9",
+    "category": "Math",
+    "versions": [
+      "What is 9 x 1?",
+      "What is the value of 9 multiplied by 1?",
+      "What is the solution to 9 multiplied by 1?",
+      "What is the result of multiplying 1 by 9?"
+    ],
+    "versions_ar": [
+      "ما هو 9x1؟",
+      "ما هي قيمة 9 مضروبة في 1؟",
+      "ما هو الحل لـ 9 مضروبة في 1",
+      "ما هي نتيجة ضرب 1×9؟"
+    ],
+    "choices_ar": [
+      "8 8",
+      "::",
+      "٠١",
+      "7 7"
+    ],
+    "answer_ar": "::",
+    "category_ar": "الرياضيات"
+  },
+  {
+    "question": "When do you eat breakfast?",
+    "choices": [
+      "At night",
+      "In the morning",
+      "In the evening",
+      "Before bed"
+    ],
+    "answer": "In the morning",
+    "category": "Time & Place",
+    "versions": [
+      "When do you eat breakfast?",
+      "What time do you usually have breakfast?",
+      "At what time do you usually have breakfast?",
+      "When do you usually have your morning meal?"
+    ],
+    "versions_ar": [
+      "متى تتناول إفطارك؟",
+      "ما الوقت الذي عادة ما يكون لديك إفطار؟",
+      "في إيه وقت تتناولين الفطور عادةً؟",
+      "متى لديك عادة وجبة الصباح الخاصة بك؟"
+    ],
+    "choices_ar": [
+      "في الليل",
+      "في الصباح في الصباح",
+      "في المساء",
+      "قبل أن يُسرر"
+    ],
+    "answer_ar": "في الصباح في الصباح",
+    "category_ar": ""
+  },
+  {
+    "question": "Where do you sleep?",
+    "choices": [
+      "Kitchen",
+      "Classroom",
+      "Bedroom",
+      "Park"
+    ],
+    "answer": "Bedroom",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you sleep?",
+      "What is your preferred sleeping spot?",
+      "Where is your preferred spot for sleeping?",
+      "Where is your preferred location for sleeping?"
+    ],
+    "versions_ar": [
+      "إيهن تنامين؟",
+      "ما هو مكان النوم المفضل لديك؟",
+      "إيهن مكان نومك المفضل؟",
+      "إيهن موقع نومك المفضل؟"
+    ],
+    "choices_ar": [
+      "",
+      "شيء",
+      "غرفة النوم",
+      "مُركْس"
+    ],
+    "answer_ar": "غرفة النوم",
+    "category_ar": ""
+  },
+  {
+    "question": "What do you wear when it’s raining?",
+    "choices": [
+      "Sunglasses",
+      "Raincoat",
+      "Shorts",
+      "Swimsuit"
+    ],
+    "answer": "Raincoat",
+    "category": "Time & Place",
+    "versions": [
+      "What do you wear when it’s raining?",
+      "What clothing do you put on in the rain?",
+      "What clothing do you usually wear when it rains?",
+      "What clothing do you usually put on when it rains?"
+    ],
+    "versions_ar": [
+      "ماذا ترتدي عندما تمطر ؟",
+      "ما هي الملابس اللي ترتديها في المطر؟",
+      "ما هي الملابس اللي ترتديها عادة عندما تمطر؟",
+      "ما هي الملابس اللي ترتديها عادة عندما تمطر؟"
+    ],
+    "choices_ar": [
+      "السنة",
+      "المطر",
+      "الشور",
+      "سوي سو سو سو سو سو سو سو سو سو سو سو سو سو سو سو سو سوي"
+    ],
+    "answer_ar": "المطر",
+    "category_ar": ""
+  },
+  {
+    "question": "When do you go to school?",
+    "choices": [
+      "Morning",
+      "Midnight",
+      "Evening",
+      "Afternoon"
+    ],
+    "answer": "Morning",
+    "category": "Time & Place",
+    "versions": [
+      "When do you go to school?",
+      "When do you usually go to school?",
+      "When do you typically go to school?",
+      "At what time do you typically go to school?"
+    ],
+    "versions_ar": [
+      "متى تذهب إلى المدرسة؟",
+      "متى تذهبين عادة إلى المدرسة؟",
+      "متى تذهبين عادة إلى المدرسة؟",
+      "في إيه وقت تذهبين عادة إلى المدرسة؟"
+    ],
+    "choices_ar": [
+      "صباحا صباحا",
+      "منتصف النوم",
+      "مُحْسِس",
+      "ما بعد"
+    ],
+    "answer_ar": "صباحا صباحا",
+    "category_ar": ""
+  },
+  {
+    "question": "Where do you go to buy food?",
+    "choices": [
+      "Hospital",
+      "Library",
+      "Supermarket",
+      "Cinema"
+    ],
+    "answer": "Supermarket",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you go to buy food?",
+      "What is your go-to spot for purchasing food?",
+      "What is your go-to location for buying food?",
+      "What is your go-to spot for buying food?"
+    ],
+    "versions_ar": [
+      "إيهن تذهب لشراء الطعام؟",
+      "ما هو موقعك لشراء الطعام؟",
+      "ما هو موقعك لشراء الطعام؟",
+      "ما هو موقعك لشراء الطعام؟"
+    ],
+    "choices_ar": [
+      "",
+      "المكتبة",
+      "",
+      "ما"
+    ],
+    "answer_ar": "",
+    "category_ar": ""
+  },
+  {
+    "question": "What day comes after Monday?",
+    "choices": [
+      "Sunday",
+      "Wednesday",
+      "Tuesday",
+      "Friday"
+    ],
+    "answer": "Tuesday",
+    "category": "Time & Place",
+    "versions": [
+      "What day comes after Monday?",
+      "What is the following day after Monday?",
+      "What day follows Monday?",
+      "What is the following day from Monday?"
+    ],
+    "versions_ar": [
+      "ما هو اليوم الذي يأتي بعد يوم الاثنين؟",
+      "ما هو التالي بعد يوم الاثنين؟",
+      "ما هو اليوم الذي يليه يوم الاثنين؟",
+      "ما هو اليوم التالي من يوم الاثنين؟"
+    ],
+    "choices_ar": [
+      "الصبح",
+      "الأربعاء الأربعاء",
+      "يُنقل",
+      "الجمعة الجمعة الجمعة الجمعة الجمعة الجمعة الجمعة الجمعة"
+    ],
+    "answer_ar": "يُنقل",
+    "category_ar": ""
+  },
+  {
+    "question": "Where do you find books to read?",
+    "choices": [
+      "Gym",
+      "Bakery",
+      "Library",
+      "Garden"
+    ],
+    "answer": "Library",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you find books to read?",
+      "Where do you go to read books?",
+      "What is your place to read books?",
+      "What is your go-to spot for reading books?"
+    ],
+    "versions_ar": [
+      "إيهن تجد الكتب للقراءة؟",
+      "إيهن تذهب لقراءة الكتب؟",
+      "ما هو مكانك لقراءة الكتب؟",
+      "ما هو موقعك لقراءة الكتب؟"
+    ],
+    "choices_ar": [
+      "",
+      "الـمُرَجِز الـمُرَجِز",
+      "المكتبة",
+      ""
+    ],
+    "answer_ar": "المكتبة",
+    "category_ar": ""
+  },
+  {
+    "question": "When do you say 'Good night'?",
+    "choices": [
+      "In the morning",
+      "At lunch",
+      "At night",
+      "In class"
+    ],
+    "answer": "At night",
+    "category": "Time & Place",
+    "versions": [
+      "When do you say 'Good night'?",
+      "At what point do you greet someone with a \"Good night\"?",
+      "At what point do you say 'Good night'?",
+      "At what time do you greet someone with a \"Good night\"?"
+    ],
+    "versions_ar": [
+      "متى تقول \"ليلة سعيدة\"؟",
+      "في إيه مرحلة تحيين شخصاً بـ \"ليلة سعيدة\"؟",
+      "في إيه نقطة تقول \"ليلة سعيدة\"؟",
+      "في إيه وقت تحيي شخصاً بليلة سعيدة؟"
+    ],
+    "choices_ar": [
+      "في الصباح في الصباح",
+      "الطعام",
+      "في الليل",
+      "في الدرجة"
+    ],
+    "answer_ar": "في الليل",
+    "category_ar": ""
+  },
+  {
+    "question": "Where do you play football?",
+    "choices": [
+      "Bathroom",
+      "Stadium",
+      "Bedroom",
+      "Kitchen"
+    ],
+    "answer": "Stadium",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you play football?",
+      "What is the location of your football practice?",
+      "What is your preferred location for football games?",
+      "In what location do you typically watch football?"
+    ],
+    "versions_ar": [
+      "إيهن تلعب كرة القدم؟",
+      "ما هو موقع تدريبك لكرة القدم؟",
+      "ما هو موقعك المفضل لمباريات كرة القدم؟",
+      "في إيه موقع تشاهد كرة القدم عادةً؟"
+    ],
+    "choices_ar": [
+      "الحمامات",
+      "الدورة الاستثنائية الأولى",
+      "غرفة النوم",
+      ""
+    ],
+    "answer_ar": "الدورة الاستثنائية الأولى",
+    "category_ar": ""
+  },
+  {
+    "question": "What season is hot and sunny?",
+    "choices": [
+      "Winter",
+      "Autumn",
+      "Summer",
+      "Spring"
+    ],
+    "answer": "Summer",
+    "category": "Time & Place",
+    "versions": [
+      "What season is hot and sunny?",
+      "At what time of the year is it most pleasant to be active and cool?",
+      "At what time of the year do we experience the most sunny days?",
+      "At what time of the year is it most pleasant to be warm and sunny?"
+    ],
+    "versions_ar": [
+      "ما هو الموسم الحار والمشمس؟",
+      "في اي وقت من السنة يكون اكثر سرورا ان تكون نشيطا ورائعا ؟",
+      "في اي وقت من السنة نختبر اكثر الايام مشمسة ؟",
+      "في اي وقت من السنة يكون اكثر سرورا ان تكون دافئا ومشمسا ؟"
+    ],
+    "choices_ar": [
+      "سكر",
+      "الخريف",
+      "الفرق",
+      "سِرْس"
+    ],
+    "answer_ar": "الفرق",
+    "category_ar": ""
+  },
+  {
+    "question": "Where do you go to learn?",
+    "choices": [
+      "Zoo",
+      "Mall",
+      "School",
+      "Beach"
+    ],
+    "answer": "School",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you go to learn?",
+      "Where do you receive your academic education?",
+      "What is your preferred location for studying?",
+      "What is the location of your educational facility?"
+    ],
+    "versions_ar": [
+      "إيهن تذهب لتتعلم؟",
+      "من إيهن تحصل على تعليمك الأكاديمي؟",
+      "ما هو موقعك المفضل للدراسة ؟",
+      "ما هو موقع مرفقك التعليمي؟"
+    ],
+    "choices_ar": [
+      "مُوجو",
+      "المعامل",
+      "المدرسة",
+      "الشك"
+    ],
+    "answer_ar": "المدرسة",
+    "category_ar": ""
+  },
+  {
+    "question": "What time do you go to bed?",
+    "choices": [
+      "Morning",
+      "Evening",
+      "Noon",
+      "Afternoon"
+    ],
+    "answer": "Evening",
+    "category": "Time & Place",
+    "versions": [
+      "What time do you go to bed?",
+      "When do you go to sleep?",
+      "When do you usually go to sleep?",
+      "When do you usually go to bed?"
+    ],
+    "versions_ar": [
+      "متى ستنام؟",
+      "متى تنامين؟",
+      "متى تنام عادةً؟",
+      "متى تذهب عادة إلى السرير؟"
+    ],
+    "choices_ar": [
+      "صباحا صباحا",
+      "مُحْسِس",
+      "نونون",
+      "ما بعد"
+    ],
+    "answer_ar": "مُحْسِس",
+    "category_ar": ""
+  },
+  {
+    "question": "Where do airplanes take off?",
+    "choices": [
+      "Bus station",
+      "Train station",
+      "Airport",
+      "Harbor"
+    ],
+    "answer": "Airport",
+    "category": "Time & Place",
+    "versions": [
+      "Where do airplanes take off?",
+      "What is the starting point for airplanes?",
+      "At what location do airplanes take off?",
+      "Where do planes typically take off from during takeoff?"
+    ],
+    "versions_ar": [
+      "إيهن تقلع الطائرات؟",
+      "ما هي نقطة انطلاق الطائرات؟",
+      "في إيه موقع تقلع الطائرات؟",
+      "من إيهن تقلع الطائرات عادةً أثناء الإقلاع؟"
+    ],
+    "choices_ar": [
+      "مهبط",
+      "نقطة نقل",
+      "طابور",
+      "المرفرفر"
+    ],
+    "answer_ar": "طابور",
+    "category_ar": ""
+  },
+  {
+    "question": "What day comes before Friday?",
+    "choices": [
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "answer": "Thursday",
+    "category": "Time & Place",
+    "versions": [
+      "What day comes before Friday?",
+      "What is the day that precedes Friday?",
+      "What is the day preceding Friday?",
+      "What is the day before Friday?"
+    ],
+    "versions_ar": [
+      "إيه يوم يأتي قبل يوم الجمعة؟",
+      "ما هو اليوم الذي يسبق يوم الجمعة؟",
+      "ما هو اليوم السابق ليوم الجمعة؟",
+      "ما هو اليوم قبل الجمعة؟"
+    ],
+    "choices_ar": [
+      "الاثنين الاثنين الاثنين الاثنين الاثنين",
+      "الأربعاء الأربعاء",
+      "واو خُفششش",
+      "السبت"
+    ],
+    "answer_ar": "واو خُفششش",
+    "category_ar": ""
+  },
+  {
+    "question": "When do you wear a coat?",
+    "choices": [
+      "In summer",
+      "In winter",
+      "At the beach",
+      "While sleeping"
+    ],
+    "answer": "In winter",
+    "category": "Time & Place",
+    "versions": [
+      "When do you wear a coat?",
+      "What is the right time to wear a coat?",
+      "What is the appropriate time to wear a coat?",
+      "When do you put on a coat?"
+    ],
+    "versions_ar": [
+      "متى ترتدي معطفاً؟",
+      "ما هو الوقت المناسب لارتداء معطف؟",
+      "ما هو الوقت المناسب لارتداء معطف؟",
+      "متى ترتدي معطفاً؟"
+    ],
+    "choices_ar": [
+      "في الصيف",
+      ":: الشتاء",
+      "على الشاطئ",
+      "النوم أثناء النوم"
+    ],
+    "answer_ar": ":: الشتاء",
+    "category_ar": ""
+  },
+  {
+    "question": "Where do doctors work?",
+    "choices": [
+      "Bank",
+      "Hospital",
+      "Restaurant",
+      "Garage"
+    ],
+    "answer": "Hospital",
+    "category": "Time & Place",
+    "versions": [
+      "Where do doctors work?",
+      "Where are doctors stationed to work?",
+      "What is the work environment like for doctors?",
+      "Where do medical professionals typically spend their time working?"
+    ],
+    "versions_ar": [
+      "إيهن يعمل الأطباء؟",
+      "اين يعمل الاطباء ؟",
+      "كيف هي بيئة العمل بالنسبة للأطباء؟",
+      "إيهن يقضي المهنيون الطبيون عادة وقتهم في العمل؟"
+    ],
+    "choices_ar": [
+      "مصرف",
+      "",
+      "محلات",
+      ""
+    ],
+    "answer_ar": "",
+    "category_ar": ""
+  },
+  {
+    "question": "What do you do in the afternoon?",
+    "choices": [
+      "Eat dinner",
+      "Go to sleep",
+      "Play or study",
+      "Wake up"
+    ],
+    "answer": "Play or study",
+    "category": "Time & Place",
+    "versions": [
+      "What do you do in the afternoon?",
+      "How do you pass your time during the afternoon?",
+      "How do you spend your afternoons?",
+      "What activities do you engage in during the afternoon hours?"
+    ],
+    "versions_ar": [
+      "ماذا تفعل في فترة ما بعد الظهر؟",
+      "كيف تمضي وقتك في فترة ما بعد الظهر؟",
+      "كيف تقضي فترة ما بعد الظهر؟",
+      "ما الأنشطة اللي تقوم بها خلال ساعات ما بعد الظهر؟"
+    ],
+    "choices_ar": [
+      "الطعام",
+      "الذهاب إلى النوم",
+      "اللعب أو التعليم",
+      "استيقظ استيقظ"
+    ],
+    "answer_ar": "اللعب أو التعليم",
+    "category_ar": ""
+  },
+  {
+    "question": "Where do you go to watch movies?",
+    "choices": [
+      "Theater",
+      "Gym",
+      "Bakery",
+      "School"
+    ],
+    "answer": "Theater",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you go to watch movies?",
+      "Where do you usually watch movies?",
+      "What is your preferred movie-watching destination?",
+      "What is your go-to spot for watching movies?"
+    ],
+    "versions_ar": [
+      "إيهن تذهب لمشاهدة الأفلام؟",
+      "إيهن تشاهدين الأفلام عادة؟",
+      "ما هي وجهتك المفضلة لمشاهدة الأفلام؟",
+      "ما هو موقفك من مشاهدة الأفلام؟"
+    ],
+    "choices_ar": [
+      "الحاضر",
+      "",
+      "الـمُرَجِز الـمُرَجِز",
+      "المدرسة"
+    ],
+    "answer_ar": "الحاضر",
+    "category_ar": ""
+  },
+  {
+    "question": "What comes after morning?",
+    "choices": [
+      "Evening",
+      "Night",
+      "Afternoon",
+      "Midnight"
+    ],
+    "answer": "Afternoon",
+    "category": "Time & Place",
+    "versions": [
+      "What comes after morning?",
+      "What transpires after the end of the day?",
+      "What follows the morning jolt?",
+      "What follows the onset of daybreak?"
+    ],
+    "versions_ar": [
+      "ما الذي يأتي بعد الصباح؟",
+      "ما الذي يحدث بعد نهاية اليوم؟",
+      "ما الذي يلي الحضّة الصباحية؟",
+      "ما الذي يتبع بداية الفجر؟"
+    ],
+    "choices_ar": [
+      "مُحْسِس",
+      "الصبح",
+      "ما بعد",
+      "منتصف النوم"
+    ],
+    "answer_ar": "ما بعد",
+    "category_ar": ""
+  },
+  {
+    "question": "Where do you keep your clothes?",
+    "choices": [
+      "Desk",
+      "Closet",
+      "Fridge",
+      "Sink"
+    ],
+    "answer": "Closet",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you keep your clothes?",
+      "Where is the storage location of your clothes?",
+      "Where do you store your clothes?",
+      "Where do you stash your clothes?"
+    ],
+    "versions_ar": [
+      "إيهن تحتفظ بملابسك؟",
+      "إيهن مكان تخزين ملابسك؟",
+      "إيهن تخزنين ملابسك؟",
+      "إيهن خبأت ملابسك؟"
+    ],
+    "choices_ar": [
+      "المصب",
+      "سرج",
+      "المحتويات",
+      "SS"
+    ],
+    "answer_ar": "سرج",
+    "category_ar": ""
+  },
+  {
+    "question": "Where is the cat in this sentence: 'The cat is under the table'?",
+    "choices": [
+      "On the table",
+      "Next to the table",
+      "Under the table",
+      "Behind the table"
+    ],
+    "answer": "Under the table",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the cat in this sentence: 'The cat is under the table'?",
+      "In the sentence \"The cat is under the table\", where exactly is the cat located?",
+      "In the sentence \"The cat is under the table\", where is the cat located?",
+      "Where can the cat be found in the sentence \"The cat is seated under the table\"?"
+    ],
+    "versions_ar": [
+      "إيهن القطة في هذه الجُمله: القطة تحت الطاولة؟",
+      "في الجُمله \"القط تحت الطاولة\" إيهن تقع القطة بالضبط؟",
+      "في الجُمله \"القط تحت الطاولة\" إيهن تقع القطة؟",
+      "إيهن يمكن العثور على القطة في الجُمله \"القطة جالسة تحت الطاولة\"؟"
+    ],
+    "choices_ar": [
+      "على الجدول",
+      "التالي إلى الجدول",
+      "تحت الجدول",
+      "رابعاً - خلف الطاولة"
+    ],
+    "answer_ar": "تحت الجدول",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "What does 'next to' mean?",
+    "choices": [
+      "Far away",
+      "Very close",
+      "On top",
+      "Inside"
+    ],
+    "answer": "Very close",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What does 'next to' mean?",
+      "What is the meaning of 'next to'?",
+      "Could you clarify the significance of 'next to'?",
+      "Can you explain the definition of 'next to'?"
+    ],
+    "versions_ar": [
+      "ماذا يعني \"التالي\" ؟",
+      "ما معنى \"التالية\" ؟",
+      "هل يمكنك أن توضح أهمية \"التالية\" ؟",
+      "هل يمكنك شرح تعريف 'next to'؟"
+    ],
+    "choices_ar": [
+      "ألف - بُرّى",
+      "قريب جدا جدا",
+      "أعلى أعلى",
+      "داخل"
+    ],
+    "answer_ar": "قريب جدا جدا",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "Where is the dog in: 'The dog is behind the sofa'?",
+    "choices": [
+      "In front of the sofa",
+      "Behind the sofa",
+      "Under the sofa",
+      "On the sofa"
+    ],
+    "answer": "Behind the sofa",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the dog in: 'The dog is behind the sofa'?",
+      "Where can the dog be found in 'The dog is situated behind the sofa'?",
+      "Where can I find the dog in the passage titled 'The dog is situated behind the sofa'?",
+      "In 'The dog is behind the sofa', where can I find the dog?"
+    ],
+    "versions_ar": [
+      "إيهن هو الكلب في: \"الكلب وراء الأريكة\"؟",
+      "إيهن يمكن العثور على الكلب في 'الكلب يقع وراء الأريكة'؟",
+      "إيهن يمكنني أن أجد الكلب في الممر تحت عنوان \"الكلب موجود خلف الأريكة\"؟",
+      "في 'الكلب هو وراء الأريكة'، إيهن يمكنني العثور على الكلب؟"
+    ],
+    "choices_ar": [
+      "أمام مقدمة الصرّاف",
+      "\"خلف القُرّة\"",
+      "تحت النكهة",
+      "على السكة"
+    ],
+    "answer_ar": "\"خلف القُرّة\"",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "If the toy is inside the box, where is it?",
+    "choices": [
+      "On the box",
+      "Next to the box",
+      "Inside the box",
+      "Behind the box"
+    ],
+    "answer": "Inside the box",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If the toy is inside the box, where is it?",
+      "In the box, where is the toy located?",
+      "Where can I find the toy in the box?",
+      "Where is the toy in the box if there is one?"
+    ],
+    "versions_ar": [
+      "إذا كانت اللعبة داخل الصندوق، فإيهن هي؟",
+      "في الصندوق، إيهن تقع اللعبة؟",
+      "إيهن يمكنني أن أجد لعبة في الصندوق؟",
+      "إيهن هي اللعبة في الصندوق إذا كان هناك واحدة؟"
+    ],
+    "choices_ar": [
+      "على الصندوق",
+      "إلى التالي إلى مربع",
+      "داخل الصندوق",
+      "(الخلف وراء الصندوق"
+    ],
+    "answer_ar": "داخل الصندوق",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "What word tells you something is lower than another object?",
+    "choices": [
+      "Above",
+      "Under",
+      "Next to",
+      "Behind"
+    ],
+    "answer": "Under",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What word tells you something is lower than another object?",
+      "What is the term used to describe something that is smaller than another thing?",
+      "What is the term for indicating that something is situated below another thing?",
+      "What term indicates that something is situated beneath another thing?"
+    ],
+    "versions_ar": [
+      "ما هي الكلمة اللي تخبرك أن شيئاً أقل من كائن آخر؟",
+      "ما هو المصطلح المستخدم لوصف شيء أصغر من شيء آخر؟",
+      "ما هو المصطلح للإشارة إلى أن شيئا ما يقع تحت شيء آخر؟",
+      "ما هي العبارة اللي تشير الى ان شيئا ما يقع تحت شيء آخر ؟"
+    ],
+    "choices_ar": [
+      "أولاً",
+      "الموارد تحت",
+      "إلى",
+      "الخلف"
+    ],
+    "answer_ar": "الموارد تحت",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "Where is your nose?",
+    "choices": [
+      "On your hand",
+      "On your arm",
+      "On your face",
+      "On your foot"
+    ],
+    "answer": "On your face",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is your nose?",
+      "In what part of your anatomy does your nose end up?",
+      "What is the location of your nose?",
+      "What is the location of your nasal cavity?"
+    ],
+    "versions_ar": [
+      "إيهن أنفك؟",
+      "في إيه جزء من التشريح الخاص بك هل ينتهي أنفك؟",
+      "ما هو موقع أنفك؟",
+      "ما هو موقع تجويفك الأنفي؟"
+    ],
+    "choices_ar": [
+      "على يدك على يدك",
+      "على ذراعك",
+      "على وجه وجهك",
+      "على قدم قدمك"
+    ],
+    "answer_ar": "على وجه وجهك",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "If a ball is between two chairs, where is it?",
+    "choices": [
+      "On the chairs",
+      "Outside the chairs",
+      "Between the chairs",
+      "Under the chairs"
+    ],
+    "answer": "Between the chairs",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If a ball is between two chairs, where is it?",
+      "Where can a ball be found if it is sandwiched between two chairs?",
+      "Where can a ball be found if it is placed between two chairs?",
+      "Where can we find a ball if it is between two chairs?"
+    ],
+    "versions_ar": [
+      "إذا كانت الكرة بين كرسيين، إيهن هي؟",
+      "إيهن يمكن العثور على كرة إذا كانت مُسندة بين كرسيين؟",
+      "إيهن يمكن العثور على كرة إذا وضعت بين كرسيين؟",
+      "إيهن يمكننا أن نجد كرة إذا كانت بين كرسيين؟"
+    ],
+    "choices_ar": [
+      "على الكراسات",
+      "خارج الكراسي",
+      "بين الكراسات",
+      "تحت الكراسات"
+    ],
+    "answer_ar": "بين الكراسات",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "What does 'above' mean?",
+    "choices": [
+      "Below",
+      "Next to",
+      "On top",
+      "Inside"
+    ],
+    "answer": "On top",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What does 'above' mean?",
+      "What is the significance of 'above'?",
+      "What is the definition of 'above'?",
+      "What does 'above' signify?"
+    ],
+    "versions_ar": [
+      "ماذا يعني \"فوق\" ؟",
+      "ما هي أهمية \"فوق\" ؟",
+      "ما هو تعريف \"فوق\" ؟",
+      "ماذا يعني \"فوق ده\" ؟"
+    ],
+    "choices_ar": [
+      "ثانياً -",
+      "إلى",
+      "أعلى أعلى",
+      "داخل"
+    ],
+    "answer_ar": "أعلى أعلى",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "Where do you sit in a classroom?",
+    "choices": [
+      "On the table",
+      "On the chair",
+      "Under the desk",
+      "In the cupboard"
+    ],
+    "answer": "On the chair",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where do you sit in a classroom?",
+      "What is your preferred seating position in a classroom?",
+      "Where do you find yourself sitting in a classroom?",
+      "Where do you find yourself in a classroom setting?"
+    ],
+    "versions_ar": [
+      "إيهن تجلس في فصل دراسي؟",
+      "ما هو موقع مقعدك المفضل في فصل دراسي؟",
+      "إيهن تجد نفسك جالساً في فصل دراسي؟",
+      "إيهن تجد نفسك في مكان فصل دراسي؟"
+    ],
+    "choices_ar": [
+      "على الجدول",
+      "على الكرسي",
+      "تحت سطح المكتب",
+      "في الخزانة"
+    ],
+    "answer_ar": "على الكرسي",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "If the sun is in the sky, where is it?",
+    "choices": [
+      "Above you",
+      "Next to you",
+      "Behind you",
+      "Under you"
+    ],
+    "answer": "Above you",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If the sun is in the sky, where is it?",
+      "Where is the sun, if it's in the sky?",
+      "Where can the sun be found if it's in the sky?",
+      "Where can we find the sun if it is in the sky?"
+    ],
+    "versions_ar": [
+      "إذا كانت الشمس في السماء، فإيهن هي؟",
+      "إيهن هي الشمس، إذا كانت في السماء؟",
+      "إيهن يمكن العثور على الشمس إذا كانت في السماء؟",
+      "إيهن يمكننا أن نجد الشمس إذا كانت في السماء؟"
+    ],
+    "choices_ar": [
+      "فوقك",
+      "إلى جانبك",
+      "خلفك",
+      "تحتك"
+    ],
+    "answer_ar": "فوقك",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "Where is the teacher usually standing?",
+    "choices": [
+      "Behind the students",
+      "In front of the class",
+      "Outside the school",
+      "Next to the door"
+    ],
+    "answer": "In front of the class",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the teacher usually standing?",
+      "What is the usual location of the teacher's desk?",
+      "Where can I find the teacher's usual location?",
+      "Where is the teacher usually found?"
+    ],
+    "versions_ar": [
+      "إيهن يقف المعلم عادة؟",
+      "ما هو الموقع المعتاد لمكتب المعلم؟",
+      "إيهن يمكنني أن أجد مكان المعلم المعتاد؟",
+      "إيهن يوجد المعلم عادة؟"
+    ],
+    "choices_ar": [
+      "الذي يُوَجّه الطّارف",
+      "أمام الصف",
+      "خارج المدرسة",
+      "من خلال الباب"
+    ],
+    "answer_ar": "أمام الصف",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "What is 'inside' the pencil case?",
+    "choices": [
+      "The chair",
+      "The pen",
+      "The wall",
+      "The book"
+    ],
+    "answer": "The pen",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What is 'inside' the pencil case?",
+      "What is contained within the inside of the pencil case?",
+      "What is concealed within the pencil case?",
+      "What is located inside the pencil case?"
+    ],
+    "versions_ar": [
+      "ما هي \"داخل\" حالة قلم الرصاص؟",
+      "ماذا يوجد داخل داخل صندوق القلم؟",
+      "ما الذي يُخفي داخل قضية القلم؟",
+      "ماذا يوجد داخل صندوق قلم الرصاص؟"
+    ],
+    "choices_ar": [
+      "ألف - الكرسي",
+      "القلم",
+      "الجدار الجدار",
+      "الكتاب الكتاب"
+    ],
+    "answer_ar": "القلم",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "If your friend is sitting 'beside' you, where is he?",
+    "choices": [
+      "In front of you",
+      "Behind you",
+      "Next to you",
+      "Far from you"
+    ],
+    "answer": "Next to you",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If your friend is sitting 'beside' you, where is he?",
+      "Where is your friend when he sits next to you?",
+      "If your friend is sitting next to you, where is he?",
+      "If your friend is sitting with you, where is he?"
+    ],
+    "versions_ar": [
+      "إذا كان صديقك يجلس \"بجانبك\" إيهن هو؟",
+      "إيهن صديقك عندما يجلس بجانبك؟",
+      "إذا كان صديقك يجلس بجانبك، إيهن هو؟",
+      "إذا كان صديقك يجلس معك، إيهن هو؟"
+    ],
+    "choices_ar": [
+      "في مقدمتك",
+      "خلفك",
+      "إلى جانبك",
+      "من بعيد عنك"
+    ],
+    "answer_ar": "إلى جانبك",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "What does 'behind' mean?",
+    "choices": [
+      "In front",
+      "At the back",
+      "Next to",
+      "Inside"
+    ],
+    "answer": "At the back",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What does 'behind' mean?",
+      "What does the word 'behind' signify?",
+      "What is the definition of 'behind'?",
+      "What does the term 'behind' signify?"
+    ],
+    "versions_ar": [
+      "ماذا تعني \"خلفية\" ؟",
+      "ما معنى كلمة \"خلفية\"؟",
+      "ما هو تعريف \"الخلفية\"؟",
+      "ماذا يعني مصطلح \"ما وراء\" ؟"
+    ],
+    "choices_ar": [
+      "في المقدمة",
+      "في الجزء الخلفي",
+      "إلى",
+      "داخل"
+    ],
+    "answer_ar": "في الجزء الخلفي",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "Where is the ball in: 'The ball is on the shelf'?",
+    "choices": [
+      "On the floor",
+      "In the box",
+      "On the shelf",
+      "Next to the box"
+    ],
+    "answer": "On the shelf",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the ball in: 'The ball is on the shelf'?",
+      "Where can the ball be found when someone says 'The ball is on the shelf'?",
+      "Where can the ball be found in the phrase 'The ball is on the shelf'?",
+      "Where can the ball be found when someone says 'the ball is on the shelf'?"
+    ],
+    "versions_ar": [
+      "إيهن الكرة في: \"الكرة على الرف\"؟",
+      "إيهن يمكن العثور على الكرة عندما يقول أحدهم \"الكرة على الرف\"؟",
+      "إيهن يمكن أن توجد الكرة في عبارة \"الكرة على الرف\"؟",
+      "إيهن يمكن العثور على الكرة عندما يقول شخص ما 'الكرة على الرف'؟"
+    ],
+    "choices_ar": [
+      "على الأرض",
+      "في الصندوق",
+      "على الرف",
+      "إلى التالي إلى مربع"
+    ],
+    "answer_ar": "على الرف",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "What’s the opposite of 'above'?",
+    "choices": [
+      "On",
+      "Inside",
+      "Under",
+      "Next to"
+    ],
+    "answer": "Under",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What’s the opposite of 'above'?",
+      "What is the antonym of 'above'?",
+      "What is the reverse of 'above'?",
+      "What is the contrary of 'above'?"
+    ],
+    "versions_ar": [
+      "ما هو عكس \"أعلى\" ؟",
+      "ما هو اسم \"أعلى\" ؟",
+      "ما هو العكس من 'أعلى'؟",
+      "ما هو نقيض \"فوق\" ؟"
+    ],
+    "choices_ar": [
+      "& من طراز",
+      "داخل",
+      "الموارد تحت",
+      "إلى"
+    ],
+    "answer_ar": "الموارد تحت",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "If the box is in front of the boy, where is the boy?",
+    "choices": [
+      "Behind the box",
+      "Inside the box",
+      "On top of the box",
+      "Next to the box"
+    ],
+    "answer": "Behind the box",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If the box is in front of the boy, where is the boy?",
+      "In the box, where is the boy located if he is standing?",
+      "Where is the boy if he is in front of the box?",
+      "In the box, where is the boy located if he is in front of it?"
+    ],
+    "versions_ar": [
+      "إذا كان الصندوق أمام الصبي، إيهن الصبي؟",
+      "في الصندوق، إيهن يقع الفتى إن كان واقفاً؟",
+      "إيهن الصبي إذا كان أمام الصندوق؟",
+      "في الصندوق، إيهن هو مكان الصبي إذا كان أمامه؟"
+    ],
+    "choices_ar": [
+      "(الخلف وراء الصندوق",
+      "داخل الصندوق",
+      "على أعلى الصندوق",
+      "إلى التالي إلى مربع"
+    ],
+    "answer_ar": "(الخلف وراء الصندوق",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "Where do you put your shoes?",
+    "choices": [
+      "On your head",
+      "On your feet",
+      "On your hands",
+      "On the table"
+    ],
+    "answer": "On your feet",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where do you put your shoes?",
+      "What is the proper placement for your shoes?",
+      "Where do you store your shoes?",
+      "What is the correct placement for your shoes?"
+    ],
+    "versions_ar": [
+      "إيهن وضعت حذائك؟",
+      "ما هو المكان المناسب لحذائك؟",
+      "إيهن تخزن حذائك؟",
+      "ما هو المكان الصحيح لحذائك؟"
+    ],
+    "choices_ar": [
+      "على رأسك على رأسك",
+      "في أرجلك",
+      "على إيهدي إيهديك",
+      "على الجدول"
+    ],
+    "answer_ar": "في أرجلك",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "Where is the kitchen in most houses?",
+    "choices": [
+      "In the garden",
+      "In the garage",
+      "Inside the house",
+      "On the roof"
+    ],
+    "answer": "Inside the house",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the kitchen in most houses?",
+      "In what part of a home can the kitchen be found?",
+      "Where can one find the majority of the houses equipped with a kitchen?",
+      "What is the typical location of the kitchen in a household?"
+    ],
+    "versions_ar": [
+      "إيهن المطبخ في معظم المنازل؟",
+      "في إيه جزء من المنزل يمكن أن يوجد المطبخ؟",
+      "إيهن يمكن للمرء أن يجد غالبية المنازل مجهزة بمطبخ؟",
+      "ما هو الموقع النموذجي للمطبخ في البيت ؟"
+    ],
+    "choices_ar": [
+      "في الجنة : في الجنة في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة : في الجنة",
+      "في المرآب",
+      "داخل المنزل",
+      "على السقف"
+    ],
+    "answer_ar": "داخل المنزل",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "Where is the clock usually placed in a classroom?",
+    "choices": [
+      "On the floor",
+      "Under the table",
+      "On the wall",
+      "In the drawer"
+    ],
+    "answer": "On the wall",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the clock usually placed in a classroom?",
+      "In what area of a classroom is the clock usually located?",
+      "Where is the clock in a classroom?",
+      "What is the typical placement of the clock in a classroom?"
+    ],
+    "versions_ar": [
+      "إيهن يتم وضع الساعة عادة في فصل دراسي؟",
+      "في ايّ منطقة في الصف تقع الساعة عادة ؟",
+      "إيهن الساعة في فصل دراسي؟",
+      "ما هو وضع الساعة النموذجي في فصل دراسي؟"
+    ],
+    "choices_ar": [
+      "على الأرض",
+      "تحت الجدول",
+      "على الجدار الجدار :",
+      "في الدرج"
+    ],
+    "answer_ar": "على الجدار الجدار :",
+    "category_ar": "درجة الوعي"
+  },
+  {
+    "question": "Which direction do you turn if you move to your right?",
+    "choices": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer": "Right",
+    "category": "Directionality",
+    "versions": [
+      "Which direction do you turn if you move to your right?",
+      "What is the direction of movement when you move towards the right?",
+      "What is the direction of movement when you shift to the right?",
+      "What is the direction of movement if you move to the right?"
+    ],
+    "versions_ar": [
+      "إلى إيه اتجاه ستتحول إذا تحركت إلى اليمين؟",
+      "ما هو اتجاه الحركة عندما تتحرك نحو اليمين؟",
+      "ما هو اتجاه الحركة عندما تتحول إلى اليمين؟",
+      "ما هو اتجاه الحركة إذا تحركت إلى اليمين؟"
+    ],
+    "choices_ar": [
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م",
+      "يمين يمين",
+      "Uup",
+      "1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م و، 1 م"
+    ],
+    "answer_ar": "يمين يمين",
+    "category_ar": ""
+  },
+  {
+    "question": "If you are facing north and turn left, what direction are you facing now?",
+    "choices": [
+      "East",
+      "South",
+      "West",
+      "North"
+    ],
+    "answer": "West",
+    "category": "Directionality",
+    "versions": [
+      "If you are facing north and turn left, what direction are you facing now?",
+      "If you turn left and face north, what direction will you face?",
+      "If you turn left and face north, what is the direction you're going?",
+      "If you turn left facing north, what is the direction you're going?"
+    ],
+    "versions_ar": [
+      "إذا كنت تواجه الشمال وتستدير يسارا، ما الاتجاه الذي تواجهه الآن؟",
+      "إذا استدرت يساراً وواجهت شمالاً، ما الاتجاه الذي ستواجهه؟",
+      "إذا استدرت يساراً وواجهت شمالاً، ما هو الاتجاه الذي تسير فيه؟",
+      "إذا اتجهت يساراً باتجاه الشمال، ما هو الاتجاه الذي تسير فيه؟"
+    ],
+    "choices_ar": [
+      "باء - المسائل المتعلقة",
+      "جنوب جنوب جنوب",
+      "1 ف-4، 1 ف-3، 1 خ م، 1 خ ع (رأ)، 1 خ ع (رأ)، 1 خ ع (رأ)",
+      "شمالي"
+    ],
+    "answer_ar": "1 ف-4، 1 ف-3، 1 خ م، 1 خ ع (رأ)، 1 خ ع (رأ)، 1 خ ع (رأ)",
+    "category_ar": ""
+  },
+  {
+    "question": "Which direction is opposite to up?",
+    "choices": [
+      "Down",
+      "Left",
+      "Right",
+      "Behind"
+    ],
+    "answer": "Down",
+    "category": "Directionality",
+    "versions": [
+      "Which direction is opposite to up?",
+      "What is the opposite direction of up?",
+      "What is the direction opposite to up?",
+      "What is the direction of the sun's gravitational pull towards up?"
+    ],
+    "versions_ar": [
+      "إيه اتجاه هو العكس إلى أعلى؟",
+      "ما هو الاتجاه المقابل للارتفاع؟",
+      "ما هو الاتجاه العكسي إلى أعلى؟",
+      "ما هو اتجاه جاذبية الشمس نحو الأعلى؟"
+    ],
+    "choices_ar": [
+      "1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م و، 1 م",
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م",
+      "يمين يمين",
+      "الخلف"
+    ],
+    "answer_ar": "1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م و، 1 م",
+    "category_ar": ""
+  },
+  {
+    "question": "If you walk backward, where are you going?",
+    "choices": [
+      "Forward",
+      "Back",
+      "Up",
+      "Right"
+    ],
+    "answer": "Back",
+    "category": "Directionality",
+    "versions": [
+      "If you walk backward, where are you going?",
+      "If you walk backwards, where do you intend to go?",
+      "If you were to walk in the opposite direction, where would you go?",
+      "What is the destination if you reverse your walking?"
+    ],
+    "versions_ar": [
+      "إذا كنت تسير إلى الوراء، إلى إيهن أنت ذاهب؟",
+      "إذا كنت تسير إلى الوراء، إيهن تنوي أن تذهب؟",
+      "إذا كنت تسير في الاتجاه المعاكس، إيهن ستذهب؟",
+      "ما هي الوجهة إذا عكست مسارك؟"
+    ],
+    "choices_ar": [
+      "قِدم",
+      "& حرّر",
+      "Uup",
+      "يمين يمين"
+    ],
+    "answer_ar": "& حرّر",
+    "category_ar": ""
+  },
+  {
+    "question": "What direction is opposite to right?",
+    "choices": [
+      "Up",
+      "Down",
+      "Left",
+      "Back"
+    ],
+    "answer": "Left",
+    "category": "Directionality",
+    "versions": [
+      "What direction is opposite to right?",
+      "What is the direction that is opposite to the right?",
+      "Which direction is in the opposite direction?",
+      "What is the opposite direction to the right?"
+    ],
+    "versions_ar": [
+      "ما هو الاتجاه المعاكس لليمين؟",
+      "ما هو الاتجاه المقابل لليمين؟",
+      "إيه اتجاه هو في الاتجاه المعاكس؟",
+      "ما هو الاتجاه المعاكس لليمين؟"
+    ],
+    "choices_ar": [
+      "Uup",
+      "1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م و، 1 م",
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م",
+      "& حرّر"
+    ],
+    "answer_ar": "1 ف-5، 1 ف-4، 1 ف-3، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م",
+    "category_ar": ""
+  },
+  {
+    "question": "If the ball is in front of the box, where is the box?",
+    "choices": [
+      "Behind the ball",
+      "In front of the ball",
+      "Next to the ball",
+      "Above the ball"
+    ],
+    "answer": "Behind the ball",
+    "category": "Directionality",
+    "versions": [
+      "If the ball is in front of the box, where is the box?",
+      "Where can the ball be found if it is in front of the box?",
+      "If the ball is in front of the box, where is the box located?",
+      "Where can the ball be found if it is placed in front of the box?"
+    ],
+    "versions_ar": [
+      "إذا كانت الكرة أمام الصندوق، إيهن الصندوق؟",
+      "إيهن يمكن العثور على الكرة إذا كانت أمام الصندوق؟",
+      "إذا كانت الكرة أمام الصندوق، فإيهن يقع الصندوق؟",
+      "إيهن يمكن العثور على الكرة إذا كانت توضع أمام الصندوق؟"
+    ],
+    "choices_ar": [
+      "أولاً - الأساس",
+      "أمام أمام الكرة",
+      "التالي إلى الكرة",
+      "فوق الكرة"
+    ],
+    "answer_ar": "أولاً - الأساس",
+    "category_ar": ""
+  },
+  {
+    "question": "What direction do you look to see the ceiling?",
+    "choices": [
+      "Down",
+      "Left",
+      "Up",
+      "Back"
+    ],
+    "answer": "Up",
+    "category": "Directionality",
+    "versions": [
+      "What direction do you look to see the ceiling?",
+      "Which direction do you tend to look at in order to see the ceiling?",
+      "What direction do you tend to take to see the ceiling?",
+      "Which direction do you tend to look towards to see the top of the sky?"
+    ],
+    "versions_ar": [
+      "ما الاتجاه الذي تنظر إليه لترى السقف؟",
+      "ما الاتجاه الذي تميل إلى النظر إليه لرؤية السقف؟",
+      "ما هو الاتجاه الذي تميل إلى اتخاذه لرؤية السقف؟",
+      "ما الاتجاه الذي تميل إلى النظر نحو رؤية قمة السماء؟"
+    ],
+    "choices_ar": [
+      "1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م و، 1 م",
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م",
+      "Uup",
+      "& حرّر"
+    ],
+    "answer_ar": "Uup",
+    "category_ar": ""
+  },
+  {
+    "question": "If a person is standing behind you, where are they?",
+    "choices": [
+      "In front of you",
+      "Next to you",
+      "Behind you",
+      "Above you"
+    ],
+    "answer": "Behind you",
+    "category": "Directionality",
+    "versions": [
+      "If a person is standing behind you, where are they?",
+      "Where is the person standing in your way?",
+      "If someone is behind you, where is the person?",
+      "If someone is behind you, where can they be found?"
+    ],
+    "versions_ar": [
+      "إذا كان هناك شخص يقف خلفك، إيهن هم؟",
+      "إيهن الشخص الذي يقف في طريقك؟",
+      "إذا كان هناك شخص خلفك إيهن الشخص؟",
+      "إن كان هناك شخص خلفك فإيهن يمكن العثور عليه؟"
+    ],
+    "choices_ar": [
+      "في مقدمتك",
+      "إلى جانبك",
+      "خلفك",
+      "فوقك"
+    ],
+    "answer_ar": "خلفك",
+    "category_ar": ""
+  },
+  {
+    "question": "Which direction does the sun rise from?",
+    "choices": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "answer": "East",
+    "category": "Directionality",
+    "versions": [
+      "Which direction does the sun rise from?",
+      "What is the direction of the sun's rising?",
+      "From where does the sun rise?",
+      "Which direction does the sun rise in?"
+    ],
+    "versions_ar": [
+      "من إيه اتجاه تشرق الشمس؟",
+      "ما هو اتجاه شروق الشمس؟",
+      "من إيهن تشرق الشمس؟",
+      "في إيه اتجاه تشرق الشمس؟"
+    ],
+    "choices_ar": [
+      "شمالي",
+      "جنوب جنوب جنوب",
+      "باء - المسائل المتعلقة",
+      "1 ف-4، 1 ف-3، 1 خ م، 1 خ ع (رأ)، 1 خ ع (رأ)، 1 خ ع (رأ)"
+    ],
+    "answer_ar": "باء - المسائل المتعلقة",
+    "category_ar": ""
+  },
+  {
+    "question": "Which way do you move to go downstairs?",
+    "choices": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "Down",
+    "category": "Directionality",
+    "versions": [
+      "Which way do you move to go downstairs?",
+      "What is your method for going down the hall?",
+      "What is the way to go down the stairs?",
+      "How do you go down the stairs?"
+    ],
+    "versions_ar": [
+      "من إيه طريق ستنتقلين للذهاب إلى الأسفل؟",
+      "ما هي طريقتك للذهاب إلى أسفل القاعة؟",
+      "ما هي طريقة النزول من السلالم؟",
+      "كيف تنزل الدرج؟"
+    ],
+    "choices_ar": [
+      "Uup",
+      "1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م و، 1 م",
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م",
+      "يمين يمين"
+    ],
+    "answer_ar": "1 ف-4، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م أ م و، 1 م و، 1 م و، 1 م",
+    "category_ar": ""
+  },
+  {
+    "question": "If your right hand is raised, which side is it?",
+    "choices": [
+      "Left",
+      "Right",
+      "Top",
+      "Back"
+    ],
+    "answer": "Right",
+    "category": "Directionality",
+    "versions": [
+      "If your right hand is raised, which side is it?",
+      "If you have a raised right hand, which side do you stand?",
+      "If you have a raised right hand, which side do you stand on?",
+      "Which side of your hand does the raised right hand belong to?"
+    ],
+    "versions_ar": [
+      "اذا رفعت يدك اليمنى اي جانب هو؟",
+      "اذا كان لديك يد يمينية مرفوعة اي جانب تقف؟",
+      "اذا كان لديك يد يمينية مرفوعة اي جانب تقف عليه ؟",
+      "إلى إيه جانب من يدك تعمل اليد اليمنى؟"
+    ],
+    "choices_ar": [
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م",
+      "يمين يمين",
+      "أعلى",
+      "& حرّر"
+    ],
+    "answer_ar": "يمين يمين",
+    "category_ar": ""
+  },
+  {
+    "question": "What direction do you face if you turn around completely?",
+    "choices": [
+      "Same as before",
+      "Opposite direction",
+      "Right",
+      "Left"
+    ],
+    "answer": "Opposite direction",
+    "category": "Directionality",
+    "versions": [
+      "What direction do you face if you turn around completely?",
+      "When you turn around, what is the direction you turn towards?",
+      "What is the direction you turn towards when you turn completely?",
+      "What is the direction you turn to when you turn around entirely?"
+    ],
+    "versions_ar": [
+      "ما هو الاتجاه الذي ستواجهه إذا استدرت بالكامل؟",
+      "عندما تستدير، ما هو الاتجاه الذي تتجه نحوه؟",
+      "ما هو الاتجاه الذي تتجه نحوه عندما تتحول تماما؟",
+      "ما هو الاتجاه الذي تتحول إليه عندما تستدير كلياً؟"
+    ],
+    "choices_ar": [
+      "نفس الأمر في الفترة",
+      "الاتجاه المعاكس",
+      "يمين يمين",
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م"
+    ],
+    "answer_ar": "الاتجاه المعاكس",
+    "category_ar": ""
+  },
+  {
+    "question": "Which direction is between north and east?",
+    "choices": [
+      "Northeast",
+      "South",
+      "West",
+      "Southeast"
+    ],
+    "answer": "Northeast",
+    "category": "Directionality",
+    "versions": [
+      "Which direction is between north and east?",
+      "What is the direction of the line that runs from north to east?",
+      "What is the direction of travel from north to east?",
+      "What is the direction of movement from north to east?"
+    ],
+    "versions_ar": [
+      "ما هو الاتجاه بين الشمال والشرق؟",
+      "ما هو اتجاه الخط الذي يمتد من الشمال إلى الشرق؟",
+      "ما هو اتجاه السفر من الشمال إلى الشرق؟",
+      "ما هو اتجاه الحركة من الشمال إلى الشرق؟"
+    ],
+    "choices_ar": [
+      "الشمالية الشرقية",
+      "جنوب جنوب جنوب",
+      "1 ف-4، 1 ف-3، 1 خ م، 1 خ ع (رأ)، 1 خ ع (رأ)، 1 خ ع (رأ)",
+      "جنوب جنوب جنوب جنوب جنوب"
+    ],
+    "answer_ar": "الشمالية الشرقية",
+    "category_ar": ""
+  },
+  {
+    "question": "If you move to your left and then go down, where are you going?",
+    "choices": [
+      "Up",
+      "Forward",
+      "Left and down",
+      "Right"
+    ],
+    "answer": "Left and down",
+    "category": "Directionality",
+    "versions": [
+      "If you move to your left and then go down, where are you going?",
+      "What is the destination if you move leftward and then start descending?",
+      "If you move left, and then go down, where do you go next?",
+      "What is the destination if you move leftward and then begin to descend?"
+    ],
+    "versions_ar": [
+      "إذا تحركت إلى يسارك ثم سقطت إلى إيهن أنت ذاهب؟",
+      "ما هي الوجهة إذا تحركت يساراً ثم بدأت بالهبوط؟",
+      "إن تحركت يساراً ثم نزلت إلى الأسفل، فإيهن ستذهب بعد ده؟",
+      "ما هي الوجهة إذا تحركت يسارا ثم بدأت بالهبوط؟"
+    ],
+    "choices_ar": [
+      "Uup",
+      "قِدم",
+      "مُسَكَّل و أسفل",
+      "يمين يمين"
+    ],
+    "answer_ar": "مُسَكَّل و أسفل",
+    "category_ar": ""
+  },
+  {
+    "question": "Which direction is opposite to forward?",
+    "choices": [
+      "Right",
+      "Left",
+      "Backward",
+      "Up"
+    ],
+    "answer": "Backward",
+    "category": "Directionality",
+    "versions": [
+      "Which direction is opposite to forward?",
+      "What is the opposite direction of the forward direction?",
+      "What is the opposite direction of forward motion?",
+      "What is the opposite axis to the forward motion?"
+    ],
+    "versions_ar": [
+      "إيه اتجاه هو عكس الاتجاه إلى الأمام؟",
+      "ما هو الاتجاه المعاكس للاتجاه إلى الأمام؟",
+      "ما هو الاتجاه المعاكس للتحرك للأمام؟",
+      "ما هو المحور المقابل للحركة الأمامية؟"
+    ],
+    "choices_ar": [
+      "يمين يمين",
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م",
+      "إلى الخلف",
+      "Uup"
+    ],
+    "answer_ar": "إلى الخلف",
+    "category_ar": ""
+  },
+  {
+    "question": "What direction do you take to open a door inwards?",
+    "choices": [
+      "Push",
+      "Pull",
+      "Turn right",
+      "Turn left"
+    ],
+    "answer": "Push",
+    "category": "Directionality",
+    "versions": [
+      "What direction do you take to open a door inwards?",
+      "What is the orientation of a door when it is opened inwards?",
+      "What is the orientation of a door when it is opened inwardly?",
+      "In which direction do you open a door?"
+    ],
+    "versions_ar": [
+      "ما هو الاتجاه الذي تأخذه لفتح باب إلى الداخل؟",
+      "ما هو اتجاه الباب عندما يفتح إلى الداخل؟",
+      "ما هو اتجاه الباب عندما يفتح داخله؟",
+      "في إيه اتجاه تفتحين الباب؟"
+    ],
+    "choices_ar": [
+      "1 ف-4، 1 ف-3، 1 خ م، 1 خ ع (رأ)، 1 م و، 1 م أ م",
+      "رقم الهاتف:",
+      "يمين",
+      "اندور يسار"
+    ],
+    "answer_ar": "1 ف-4، 1 ف-3، 1 خ م، 1 خ ع (رأ)، 1 م و، 1 م أ م",
+    "category_ar": ""
+  },
+  {
+    "question": "If you're facing east and turn right, where are you facing?",
+    "choices": [
+      "South",
+      "North",
+      "West",
+      "East"
+    ],
+    "answer": "South",
+    "category": "Directionality",
+    "versions": [
+      "If you're facing east and turn right, where are you facing?",
+      "If you turn right and face east, where do you see?",
+      "If you turn right and face east, where do you currently stand?",
+      "When you turn right and face east, where is the destination?"
+    ],
+    "versions_ar": [
+      "إذا كنت تواجه الشرق وتنعطف يميناً، فإيهن تواجه؟",
+      "إذا انعطفت يميناً وواجهت شرقاً إيهن ترى؟",
+      "إذا انعطفت يميناً وواجهت شرقاً، إيهن تقف حالياً؟",
+      "عندما تنعطف يميناً وتتجه شرقاً، إيهن الوجهة؟"
+    ],
+    "choices_ar": [
+      "جنوب جنوب جنوب",
+      "شمالي",
+      "1 ف-4، 1 ف-3، 1 خ م، 1 خ ع (رأ)، 1 خ ع (رأ)، 1 خ ع (رأ)",
+      "باء - المسائل المتعلقة"
+    ],
+    "answer_ar": "جنوب جنوب جنوب",
+    "category_ar": ""
+  },
+  {
+    "question": "Where is the moon usually seen at night?",
+    "choices": [
+      "Below",
+      "Up",
+      "Left",
+      "Next to the sun"
+    ],
+    "answer": "Up",
+    "category": "Directionality",
+    "versions": [
+      "Where is the moon usually seen at night?",
+      "What is the usual place to view the moon during nighttime?",
+      "What is the usual place to view the moon?",
+      "What is the usual place to observe the moon at night?"
+    ],
+    "versions_ar": [
+      "إيهن يُرى القمر عادة في الليل؟",
+      "ما هو المكان المعتاد لرؤية القمر أثناء الليل؟",
+      "ما هو المكان المعتاد لرؤية القمر؟",
+      "ما هو المكان المعتاد لمراقبة القمر في الليل؟"
+    ],
+    "choices_ar": [
+      "ثانياً -",
+      "Uup",
+      "1 ف-5، 1 ف-4، 1 ف-3، 1 ف-3، 1 خ م، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م و، 1 م",
+      "تال للشمس"
+    ],
+    "answer_ar": "Uup",
+    "category_ar": ""
+  },
+  {
+    "question": "What direction is the opposite of north?",
+    "choices": [
+      "East",
+      "West",
+      "South",
+      "Northeast"
+    ],
+    "answer": "South",
+    "category": "Directionality",
+    "versions": [
+      "What direction is the opposite of north?",
+      "What is the reverse of north?",
+      "What is the polar opposite of north?",
+      "What is the lateral direction of north and south?"
+    ],
+    "versions_ar": [
+      "ما هو الاتجاه المقابل للشمال؟",
+      "ما هو عكس اتجاه الشمال؟",
+      "ما هو القطب المقابل للشمال؟",
+      "ما هو الاتجاه الجانبي للشمال والجنوب؟"
+    ],
+    "choices_ar": [
+      "باء - المسائل المتعلقة",
+      "1 ف-4، 1 ف-3، 1 خ م، 1 خ ع (رأ)، 1 خ ع (رأ)، 1 خ ع (رأ)",
+      "جنوب جنوب جنوب",
+      "الشمالية الشرقية"
+    ],
+    "answer_ar": "جنوب جنوب جنوب",
+    "category_ar": ""
+  },
+  {
+    "question": "Which side is your left hand on?",
+    "choices": [
+      "Right side",
+      "Back",
+      "Front",
+      "Left side"
+    ],
+    "answer": "Left side",
+    "category": "Directionality",
+    "versions": [
+      "Which side is your left hand on?",
+      "What is the position of your left hand?",
+      "What is the location of your left hand?",
+      "What is the location of the left hand's position?"
+    ],
+    "versions_ar": [
+      "إيه جانب هو يدك اليسرى على؟",
+      "ما هو موقف يدك اليسرى؟",
+      "ما هو موقع يدك اليسرى؟",
+      "ما هو موقع موقع اليد اليسرى؟"
+    ],
+    "choices_ar": [
+      "",
+      "& حرّر",
+      "الفئة الفنية",
+      ""
+    ],
+    "answer_ar": "",
+    "category_ar": ""
+  }
+]

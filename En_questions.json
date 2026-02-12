@@ -1,0 +1,542 @@
+[
+  {
+    "question": "Which letter comes after 'B'?",
+    "choices": ["A", "C", "D", "E"],
+    "answer": "C",
+    "category": "Letters"
+  },
+  {
+    "question": "What is the first letter of the word 'Apple'?",
+    "choices": ["A", "P", "E", "L"],
+    "answer": "A",
+    "category": "Letters"
+  },
+  {
+    "question": "Which word starts with the letter 'D'?",
+    "choices": ["Car", "Dog", "Apple", "Sun"],
+    "answer": "Dog",
+    "category": "Words"
+  },
+  {
+    "question": "What is the missing word? 'The cat is ____ the box.'",
+    "choices": ["in", "on", "under", "at"],
+    "answer": "in",
+    "category": "Sentences"
+  },
+  {
+    "question": "Which of these is a complete sentence?",
+    "choices": ["Running fast", "The boy runs", "Very happy", "In the school"],
+    "answer": "The boy runs",
+    "category": "Sentences"
+  },
+  {
+    "question": "Which word does not belong?",
+    "choices": ["Apple", "Banana", "Chair", "Orange"],
+    "answer": "Chair",
+    "category": "Words"
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "choices": ["I like play", "I playing", "I like to play", "Like I play"],
+    "answer": "I like to play",
+    "category": "Sentences"
+  },
+  {
+    "question": "What is the opposite of 'hot'?",
+    "choices": ["cold", "warm", "fire", "heat"],
+    "answer": "cold",
+    "category": "Words"
+  },
+  {
+    "question": "Which one is a verb?",
+    "choices": ["Run", "Blue", "Chair", "Apple"],
+    "answer": "Run",
+    "category": "Words"
+  },
+  {
+    "question": "What is the plural of 'cat'?",
+    "choices": ["Cats", "Cated", "Cat", "Cattes"],
+    "answer": "Cats",
+    "category": "Words"
+  },
+  {
+    "question": "Choose the correct article: ___ apple",
+    "choices": ["A", "An", "The", "Some"],
+    "answer": "An",
+    "category": "Sentences"
+  },
+  {
+    "question": "What is the last letter in 'Dog'?",
+    "choices": ["D", "G", "O", "T"],
+    "answer": "G",
+    "category": "Letters"
+  },
+  {
+    "question": "Which sentence describes a happy feeling?",
+    "choices": ["She is crying", "He is jumping with joy", "They are sad", "The dog is barking"],
+    "answer": "He is jumping with joy",
+    "category": "Comprehension"
+  },
+  {
+    "question": "What do you do with a book?",
+    "choices": ["Eat", "Read", "Throw", "Sit"],
+    "answer": "Read",
+    "category": "Comprehension"
+  },
+  {
+    "question": "Which sentence is about food?",
+    "choices": ["The bird flies", "He eats pizza", "The sky is blue", "They run fast"],
+    "answer": "He eats pizza",
+    "category": "Comprehension"
+  },
+  {
+    "question": "Find the question sentence:",
+    "choices": ["He likes apples", "Do you like apples?", "Apples are tasty", "I eat apples"],
+    "answer": "Do you like apples?",
+    "category": "Sentences"
+  },
+  {
+    "question": "Which of these words is a color?",
+    "choices": ["Run", "Blue", "Eat", "Happy"],
+    "answer": "Blue",
+    "category": "Words"
+  },
+  {
+    "question": "Which one is a question word?",
+    "choices": ["Why", "Book", "Chair", "Dog"],
+    "answer": "Why",
+    "category": "Words"
+  },
+  {
+    "question": "What do you do at night?",
+    "choices": ["Eat breakfast", "Sleep", "Go to school", "Play in sun"],
+    "answer": "Sleep",
+    "category": "Comprehension"
+  },
+  {
+    "question": "Which sentence tells about the weather?",
+    "choices": ["It is raining", "He runs fast", "She is happy", "They eat apples"],
+    "answer": "It is raining",
+    "category": "Comprehension"
+  },
+  {
+    "question": "What is 7 + 5?",
+    "choices": ["13", "12", "11", "14"],
+    "answer": "12",
+    "category": "Math"
+  },
+  {
+    "question": "How much is 18 - 9?",
+    "choices": ["9", "8", "10", "7"],
+    "answer": "9",
+    "category": "Math"
+  },
+  {
+    "question": "What is 4 x 4?",
+    "choices": ["12", "16", "14", "18"],
+    "answer": "16",
+    "category": "Math"
+  },
+  {
+    "question": "What is 20 ÷ 5?",
+    "choices": ["3", "5", "4", "6"],
+    "answer": "4",
+    "category": "Math"
+  },
+  {
+    "question": "What is 6 + 9?",
+    "choices": ["14", "15", "16", "13"],
+    "answer": "15",
+    "category": "Math"
+  },
+  {
+    "question": "How much is 10 - 7?",
+    "choices": ["2", "3", "4", "5"],
+    "answer": "3",
+    "category": "Math"
+  },
+  {
+    "question": "What is 5 x 3?",
+    "choices": ["15", "12", "10", "18"],
+    "answer": "15",
+    "category": "Math"
+  },
+  {
+    "question": "What is 16 ÷ 4?",
+    "choices": ["2", "3", "4", "5"],
+    "answer": "4",
+    "category": "Math"
+  },
+  {
+    "question": "What is 2 + 8?",
+    "choices": ["10", "11", "9", "8"],
+    "answer": "10",
+    "category": "Math"
+  },
+  {
+    "question": "What is 9 x 1?",
+    "choices": ["8", "9", "10", "7"],
+    "answer": "9",
+    "category": "Math"
+  },
+  {
+    "question": "When do you eat breakfast?",
+    "choices": ["At night", "In the morning", "In the evening", "Before bed"],
+    "answer": "In the morning",
+    "category": "Time & Place"
+  },
+  {
+    "question": "Where do you sleep?",
+    "choices": ["Kitchen", "Classroom", "Bedroom", "Park"],
+    "answer": "Bedroom",
+    "category": "Time & Place"
+  },
+  {
+    "question": "What do you wear when it’s raining?",
+    "choices": ["Sunglasses", "Raincoat", "Shorts", "Swimsuit"],
+    "answer": "Raincoat",
+    "category": "Time & Place"
+  },
+  {
+    "question": "When do you go to school?",
+    "choices": ["Morning", "Midnight", "Evening", "Afternoon"],
+    "answer": "Morning",
+    "category": "Time & Place"
+  },
+  {
+    "question": "Where do you go to buy food?",
+    "choices": ["Hospital", "Library", "Supermarket", "Cinema"],
+    "answer": "Supermarket",
+    "category": "Time & Place"
+  },
+  {
+    "question": "What day comes after Monday?",
+    "choices": ["Sunday", "Wednesday", "Tuesday", "Friday"],
+    "answer": "Tuesday",
+    "category": "Time & Place"
+  },
+  {
+    "question": "Where do you find books to read?",
+    "choices": ["Gym", "Bakery", "Library", "Garden"],
+    "answer": "Library",
+    "category": "Time & Place"
+  },
+  {
+    "question": "When do you say 'Good night'?",
+    "choices": ["In the morning", "At lunch", "At night", "In class"],
+    "answer": "At night",
+    "category": "Time & Place"
+  },
+  {
+    "question": "Where do you play football?",
+    "choices": ["Bathroom", "Stadium", "Bedroom", "Kitchen"],
+    "answer": "Stadium",
+    "category": "Time & Place"
+  },
+  {
+    "question": "What season is hot and sunny?",
+    "choices": ["Winter", "Autumn", "Summer", "Spring"],
+    "answer": "Summer",
+    "category": "Time & Place"
+  },
+  {
+    "question": "Where do you go to learn?",
+    "choices": ["Zoo", "Mall", "School", "Beach"],
+    "answer": "School",
+    "category": "Time & Place"
+  },
+  {
+    "question": "What time do you go to bed?",
+    "choices": ["Morning", "Evening", "Noon", "Afternoon"],
+    "answer": "Evening",
+    "category": "Time & Place"
+  },
+  {
+    "question": "Where do airplanes take off?",
+    "choices": ["Bus station", "Train station", "Airport", "Harbor"],
+    "answer": "Airport",
+    "category": "Time & Place"
+  },
+  {
+    "question": "What day comes before Friday?",
+    "choices": ["Monday", "Wednesday", "Thursday", "Saturday"],
+    "answer": "Thursday",
+    "category": "Time & Place"
+  },
+  {
+    "question": "When do you wear a coat?",
+    "choices": ["In summer", "In winter", "At the beach", "While sleeping"],
+    "answer": "In winter",
+    "category": "Time & Place"
+  },
+  {
+    "question": "Where do doctors work?",
+    "choices": ["Bank", "Hospital", "Restaurant", "Garage"],
+    "answer": "Hospital",
+    "category": "Time & Place"
+  },
+  {
+    "question": "What do you do in the afternoon?",
+    "choices": ["Eat dinner", "Go to sleep", "Play or study", "Wake up"],
+    "answer": "Play or study",
+    "category": "Time & Place"
+  },
+  {
+    "question": "Where do you go to watch movies?",
+    "choices": ["Theater", "Gym", "Bakery", "School"],
+    "answer": "Theater",
+    "category": "Time & Place"
+  },
+  {
+    "question": "What comes after morning?",
+    "choices": ["Evening", "Night", "Afternoon", "Midnight"],
+    "answer": "Afternoon",
+    "category": "Time & Place"
+  },
+  {
+    "question": "Where do you keep your clothes?",
+    "choices": ["Desk", "Closet", "Fridge", "Sink"],
+    "answer": "Closet",
+    "category": "Time & Place"
+  },
+  {
+    "question": "Where is the cat in this sentence: 'The cat is under the table'?",
+    "choices": ["On the table", "Next to the table", "Under the table", "Behind the table"],
+    "answer": "Under the table",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "What does 'next to' mean?",
+    "choices": ["Far away", "Very close", "On top", "Inside"],
+    "answer": "Very close",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "Where is the dog in: 'The dog is behind the sofa'?",
+    "choices": ["In front of the sofa", "Behind the sofa", "Under the sofa", "On the sofa"],
+    "answer": "Behind the sofa",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "If the toy is inside the box, where is it?",
+    "choices": ["On the box", "Next to the box", "Inside the box", "Behind the box"],
+    "answer": "Inside the box",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "What word tells you something is lower than another object?",
+    "choices": ["Above", "Under", "Next to", "Behind"],
+    "answer": "Under",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "Where is your nose?",
+    "choices": ["On your hand", "On your arm", "On your face", "On your foot"],
+    "answer": "On your face",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "If a ball is between two chairs, where is it?",
+    "choices": ["On the chairs", "Outside the chairs", "Between the chairs", "Under the chairs"],
+    "answer": "Between the chairs",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "What does 'above' mean?",
+    "choices": ["Below", "Next to", "On top", "Inside"],
+    "answer": "On top",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "Where do you sit in a classroom?",
+    "choices": ["On the table", "On the chair", "Under the desk", "In the cupboard"],
+    "answer": "On the chair",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "If the sun is in the sky, where is it?",
+    "choices": ["Above you", "Next to you", "Behind you", "Under you"],
+    "answer": "Above you",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "Where is the teacher usually standing?",
+    "choices": ["Behind the students", "In front of the class", "Outside the school", "Next to the door"],
+    "answer": "In front of the class",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "What is 'inside' the pencil case?",
+    "choices": ["The chair", "The pen", "The wall", "The book"],
+    "answer": "The pen",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "If your friend is sitting 'beside' you, where is he?",
+    "choices": ["In front of you", "Behind you", "Next to you", "Far from you"],
+    "answer": "Next to you",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "What does 'behind' mean?",
+    "choices": ["In front", "At the back", "Next to", "Inside"],
+    "answer": "At the back",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "Where is the ball in: 'The ball is on the shelf'?",
+    "choices": ["On the floor", "In the box", "On the shelf", "Next to the box"],
+    "answer": "On the shelf",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "What’s the opposite of 'above'?",
+    "choices": ["On", "Inside", "Under", "Next to"],
+    "answer": "Under",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "If the box is in front of the boy, where is the boy?",
+    "choices": ["Behind the box", "Inside the box", "On top of the box", "Next to the box"],
+    "answer": "Behind the box",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "Where do you put your shoes?",
+    "choices": ["On your head", "On your feet", "On your hands", "On the table"],
+    "answer": "On your feet",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "Where is the kitchen in most houses?",
+    "choices": ["In the garden", "In the garage", "Inside the house", "On the roof"],
+    "answer": "Inside the house",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "Where is the clock usually placed in a classroom?",
+    "choices": ["On the floor", "Under the table", "On the wall", "In the drawer"],
+    "answer": "On the wall",
+    "category": "Spatial Awareness"
+  },
+  {
+    "question": "Which direction do you turn if you move to your right?",
+    "choices": ["Left", "Right", "Up", "Down"],
+    "answer": "Right",
+    "category": "Directionality"
+  },
+  {
+    "question": "If you are facing north and turn left, what direction are you facing now?",
+    "choices": ["East", "South", "West", "North"],
+    "answer": "West",
+    "category": "Directionality"
+  },
+  {
+    "question": "Which direction is opposite to up?",
+    "choices": ["Down", "Left", "Right", "Behind"],
+    "answer": "Down",
+    "category": "Directionality"
+  },
+  {
+    "question": "If you walk backward, where are you going?",
+    "choices": ["Forward", "Back", "Up", "Right"],
+    "answer": "Back",
+    "category": "Directionality"
+  },
+  {
+    "question": "What direction is opposite to right?",
+    "choices": ["Up", "Down", "Left", "Back"],
+    "answer": "Left",
+    "category": "Directionality"
+  },
+  {
+    "question": "If the ball is in front of the box, where is the box?",
+    "choices": ["Behind the ball", "In front of the ball", "Next to the ball", "Above the ball"],
+    "answer": "Behind the ball",
+    "category": "Directionality"
+  },
+  {
+    "question": "What direction do you look to see the ceiling?",
+    "choices": ["Down", "Left", "Up", "Back"],
+    "answer": "Up",
+    "category": "Directionality"
+  },
+  {
+    "question": "If a person is standing behind you, where are they?",
+    "choices": ["In front of you", "Next to you", "Behind you", "Above you"],
+    "answer": "Behind you",
+    "category": "Directionality"
+  },
+  {
+    "question": "Which direction does the sun rise from?",
+    "choices": ["North", "South", "East", "West"],
+    "answer": "East",
+    "category": "Directionality"
+  },
+  {
+    "question": "Which way do you move to go downstairs?",
+    "choices": ["Up", "Down", "Left", "Right"],
+    "answer": "Down",
+    "category": "Directionality"
+  },
+  {
+    "question": "If your right hand is raised, which side is it?",
+    "choices": ["Left", "Right", "Top", "Back"],
+    "answer": "Right",
+    "category": "Directionality"
+  },
+  {
+    "question": "What direction do you face if you turn around completely?",
+    "choices": ["Same as before", "Opposite direction", "Right", "Left"],
+    "answer": "Opposite direction",
+    "category": "Directionality"
+  },
+  {
+    "question": "Which direction is between north and east?",
+    "choices": ["Northeast", "South", "West", "Southeast"],
+    "answer": "Northeast",
+    "category": "Directionality"
+  },
+  {
+    "question": "If you move to your left and then go down, where are you going?",
+    "choices": ["Up", "Forward", "Left and down", "Right"],
+    "answer": "Left and down",
+    "category": "Directionality"
+  },
+  {
+    "question": "Which direction is opposite to forward?",
+    "choices": ["Right", "Left", "Backward", "Up"],
+    "answer": "Backward",
+    "category": "Directionality"
+  },
+  {
+    "question": "What direction do you take to open a door inwards?",
+    "choices": ["Push", "Pull", "Turn right", "Turn left"],
+    "answer": "Push",
+    "category": "Directionality"
+  },
+  {
+    "question": "If you're facing east and turn right, where are you facing?",
+    "choices": ["South", "North", "West", "East"],
+    "answer": "South",
+    "category": "Directionality"
+  },
+  {
+    "question": "Where is the moon usually seen at night?",
+    "choices": ["Below", "Up", "Left", "Next to the sun"],
+    "answer": "Up",
+    "category": "Directionality"
+  },
+  {
+    "question": "What direction is the opposite of north?",
+    "choices": ["East", "West", "South", "Northeast"],
+    "answer": "South",
+    "category": "Directionality"
+  },
+  {
+    "question": "Which side is your left hand on?",
+    "choices": ["Right side", "Back", "Front", "Left side"],
+    "answer": "Left side",
+    "category": "Directionality"
+  }
+]

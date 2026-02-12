@@ -1,0 +1,664 @@
+[
+    {
+    "question": "What is the first letter of the word 'Apple'?",
+    "choices": [
+      "A",
+      "P",
+      "E",
+      "L"
+    ],
+    "answer": "A",
+    "category": "Letters",
+    "versions": [
+      "What is the first letter of the word 'Apple'?",
+      "What is the opening letter of the alphabet for the word 'Apple'?",
+      "What is the initial character of the word 'Apple'?",
+      "What is the initial letter of the word 'Apple'?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: ما هـي الحرف الاول من كلمه \"Apple\"؟",
+      "في سياق التعليم ، ترجمة: ما هـو الحرف الافتتاحي للابجدية لكلمه \"Apple\"؟",
+      "في سياق التعليم ، ترجمة: ما هـي الشخصية الاولية لكلمه \"Apple\"؟",
+      "في سياق التعليم ، ترجمة: ما هـو الحرف الاولي لكلمه \"Apple\"؟"
+    ],
+    "choices_ar": [
+      "ا",
+      "ص",
+      "هـ",
+      "ل"
+    ],
+    "answer_ar": "ا",
+    "category_ar": "حروف"
+  },{
+    "question": "Which word starts with the letter 'D'?",
+    "choices": [
+      "Car",
+      "Dog",
+      "Apple",
+      "Sun"
+    ],
+    "answer": "Dog",
+    "category": "Words",
+    "versions": [
+      "Which word starts with the letter 'D'?",
+      "What is the word that starts with the letter 'D'?",
+      "What is the first letter of a word?",
+      "What is a word that begins with the letter 'D'?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: اي كلمه تبدا بالحرف \"د\"؟",
+      "في سياق التعليم ، ترجمة: ما هـي الكلمه اللي تبدا بالحرف \"د\"؟",
+      "في سياق التعليم ، ترجمة: ما هـي الحرف الاول من الكلمه؟",
+      "في سياق التعليم ، ترجمة: ما هـي الكلمه اللي تبدا بالحرف \"د\"؟"
+    ],
+    "choices_ar": [
+      "سيارة",
+      "كلب",
+      "تفاحة",
+      "شمس"
+    ],
+    "answer_ar": "كلب",
+    "category_ar": "كلمات"
+  },
+  {
+    "question": "What is the missing word? 'The cat is ____ the box.'",
+    "choices": [
+      "in",
+      "on",
+      "under",
+      "at"
+    ],
+    "answer": "in",
+    "category": "Sentences",
+    "versions": [
+      "What is the missing word? 'The cat is ____ the box.'",
+      "What is the missing word in this sentence? 'The cat is ____ the box.",
+      "What is the missing letter? 'The cat is ____ the box.",
+      "What is the missing letter? 'The cat is ____ the box.'"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: ما هـي الكلمه المفقودة؟ \"القط هـو ____ الصندوق.\"",
+      "في سياق التعليم ، ترجمة: ما هـي الكلمه المفقودة في هـذهـ الجُملة؟ \"القط هـو ____ الصندوق.",
+      "في سياق التعليم ، ترجمة: ما هـي الحرف المفقودة؟ \"القط هـو ____ الصندوق.",
+      "في سياق التعليم ، ترجمة: ما هـي الحرف المفقودة؟ \"القط هـو ____ الصندوق.\""
+    ],
+    "choices_ar": [
+      "في",
+      "على",
+      "تحت",
+      "في"
+    ],
+    "answer_ar": "في",
+    "category_ar": "جُمل"
+  },{
+    "question": "Choose the correct sentence:",
+    "choices": [
+      "I like play",
+      "I playing",
+      "I like to play",
+      "Like I play"
+    ],
+    "answer": "I like to play",
+    "category": "Sentences",
+    "versions": [
+      "Choose the correct sentence:",
+      "What is the appropriate sentence?",
+      "Which sentence is correct?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: اختر الجُملة الصحيحة:",
+      "في سياق التعليم ، ترجمة: ما هـي الجُملة المناسبة؟",
+      "في سياق التعليم ، ترجمة: ما هـي الجُملة الصحيحة؟"
+    ],
+    "choices_ar": [
+      "انا احب اللعب",
+      "العب",
+      "في سياق التعليم ، ترجمة: احب اللعب",
+      "كانني العب"
+    ],
+    "answer_ar": "في سياق التعليم ، ترجمة: احب اللعب",
+    "category_ar": "جُمل"
+  },{
+    "question": "What is the plural of 'cat'?",
+    "choices": [
+      "Cats",
+      "Cated",
+      "Cat",
+      "Cattes"
+    ],
+    "answer": "Cats",
+    "category": "Words",
+    "versions": [
+      "What is the plural of 'cat'?",
+      "What is the plural of the word 'cat'?",
+      "How do you make 'cat' plural?",
+      "Can you tell me the plural of 'cat'?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: ما هـو صيغة \"القط\"؟",
+      "في سياق التعليم ، ترجمة: ما هـو صيغة كلمه \"القط\"؟",
+      "في سياق التعليم ، ترجمة: كيف تجعل الجمع \"القط\"؟",
+      "في سياق التعليم ، ترجمة: هـل يمكن ان تخبرني بصيغة \"القط\"؟"
+    ],
+    "choices_ar": [
+      "القطط",
+      "cated",
+      "قطة",
+      "Cattes"
+    ],
+    "answer_ar": "القطط",
+    "category_ar": "كلمات"
+  },
+  {
+    "question": "Choose the correct article: ___ apple",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "Some"
+    ],
+    "answer": "An",
+    "category": "Sentences",
+    "versions": [
+      "Choose the correct article: ___ apple",
+      "Which article is appropriate: apple ___?",
+      "What is the right choice: apple ___?",
+      "Which article is appropriate: __ apple?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: اختر المقالة الصحيحة: ___ Apple",
+      "في سياق التعليم ، ترجمة: اي مقالة مناسبة: Apple ___؟",
+      "في سياق التعليم ، ترجمة: ما هـو الخيار الصحيح: Apple ___؟",
+      "في سياق التعليم ، ترجمة: اي مقال مناسب: __ Apple؟"
+    ],
+    "choices_ar": [
+      "ا",
+      "و",
+      "ال",
+      "بعض"
+    ],
+    "answer_ar": "و",
+    "category_ar": "جُمل"
+  },
+  {
+    "question": "What is the last letter in 'Dog'?",
+    "choices": [
+      "D",
+      "G",
+      "O",
+      "T"
+    ],
+    "answer": "G",
+    "category": "Letters",
+    "versions": [
+      "What is the last letter in 'Dog'?",
+      "What is the concluding letter of 'Dog'?",
+      "What is the letter that completes 'Dog'?",
+      "What is the final letter in 'Dog'?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: ما هـي الحرف الاخيرة في \"الكلب\"؟",
+      "في سياق التعليم ، ترجمة: ما هـي خطاب \"الكلب\" الختامي؟",
+      "في سياق التعليم ، ترجمة: ما هـي الحرف اللي تكمل \"كلب\"؟",
+      "في سياق التعليم ، ترجمة: ما هـي الحرف الاخيرة في \"الكلب\"؟"
+    ],
+    "choices_ar": [
+      "د",
+      "ز",
+      "س",
+      "ر"
+    ],
+    "answer_ar": "ز",
+    "category_ar": "حروف"
+  },{
+    "question": "What do you do with a book?",
+    "choices": [
+      "Eat",
+      "Read",
+      "Throw",
+      "Sit"
+    ],
+    "answer": "Read",
+    "category": "Comprehension",
+    "versions": [
+      "What do you do with a book?",
+      "How do you utilize a book?",
+      "How do you use a book?",
+      "What is your approach to using a book?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: ماذا تفعل مع كتاب؟",
+      "في سياق التعليم ، ترجمة: كيف تستخدم كتابًا؟",
+      "في سياق التعليم ، ترجمة: كيف تستخدم كتاب؟",
+      "في سياق التعليم ، ترجمة: ما هـو نهـجك في استخدام كتاب؟"
+    ],
+    "choices_ar": [
+      "ياكل",
+      "يقرا",
+      "يرمي",
+      "يجلس"
+    ],
+    "answer_ar": "يقرا",
+    "category_ar": "فهـم"
+  },{
+    "question": "What do you do at night?",
+    "choices": [
+      "Eat breakfast",
+      "Sleep",
+      "Go to school",
+      "Play in sun"
+    ],
+    "answer": "Sleep",
+    "category": "Comprehension",
+    "versions": [
+      "What do you do at night?",
+      "What activities do you engage in during the night?",
+      "How do you spend your evenings?",
+      "What activities do you engage in during the evening?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: ماذا تفعل في الليل؟",
+      "في سياق التعليم ، ترجمة: ما هـي الانشطة اللي تشارك فيهـا خلال الليل؟",
+      "في سياق التعليم ، ترجمة: كيف تقضي امسياتك؟",
+      "في سياق التعليم ، ترجمة: ما هـي الانشطة اللي تشارك فيهـا خلال المساء؟"
+    ],
+    "choices_ar": [
+      "تناول وجبة الإفطار",
+      "ينام",
+      "اذهـب إلى المدرسة",
+      "العب في الشمس"
+    ],
+    "answer_ar": "ينام",
+    "category_ar": "فهـم"
+  },{
+    "question": "How much is 18 - 9?",
+    "choices": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer": "9",
+    "category": "Math",
+    "versions": [
+      "How much is 18 - 9?",
+      "What is the value of 18 raised to the power of 9?",
+      "What is the quotient when 18 is added to 9?",
+      "What is the sum of 18 and 9?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: كم هـو 18 - 9؟",
+      "في سياق التعليم ، ترجمة: ما هـي قيمة 18 رفعت إلى سلطة 9؟",
+      "في سياق التعليم ، ترجمة: ما هـو الحاصل عند إضافة 18 إلى 9؟",
+      "في سياق التعليم ، ترجمة: ما هـو مجموع 18 و 9؟"
+    ],
+    "choices_ar": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer_ar": "9",
+    "category_ar": "الرياضيات"
+  },{
+    "question": "What is 20 ÷ 5?",
+    "choices": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "4",
+    "category": "Math",
+    "versions": [
+      "What is 20 ÷ 5?",
+      "What is the result of 20 to the power of 5?",
+      "What is the result of multiplying 20 by 5?",
+      "What is the answer when 20 is divided by 5?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: ما هـو 20 ÷ 5؟",
+      "في سياق التعليم ، ترجمة: ما هـي نتيجة 20 إلى قوة 5؟",
+      "في سياق التعليم ، ترجمة: ما هـي نتيجة ضرب 20 × 5؟",
+      "في سياق التعليم ، ترجمة: ما هـي الإجابة عندما ينقسم 20 على 5؟"
+    ],
+    "choices_ar": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer_ar": "4",
+    "category_ar": "الرياضيات"
+  },{
+    "question": "How much is 10 - 7?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3",
+    "category": "Math",
+    "versions": [
+      "How much is 10 - 7?",
+      "What is the total of 10 and 7?",
+      "What is the answer to 10 multiplied by 7?",
+      "What is the numerical worth of 10 to 7?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: كم هـو 10 - 7؟",
+      "في سياق التعليم ، ترجمة: ما هـو مجموع 10 و 7؟",
+      "في سياق التعليم ، ترجمة: ما هـي الإجابة على 10 مضروبة في 7؟",
+      "في سياق التعليم ، ترجمة: ما هـي القيمة العددية من 10 إلى 7؟"
+    ],
+    "choices_ar": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer_ar": "3",
+    "category_ar": "الرياضيات"
+  },{
+    "question": "What is 16 ÷ 4?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "category": "Math",
+    "versions": [
+      "What is 16 ÷ 4?",
+      "What is the result of multiplying 16 by 4?",
+      "What is the result of multiplying 16 by itself 16 times?",
+      "What is the answer when 16 is divided by 4?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: ما هـو 16 ÷ 4؟",
+      "في سياق التعليم ، ترجمة: ما هـي نتيجة ضرب 16 × 4؟",
+      "في سياق التعليم ، ترجمة: ما هـي نتيجة ضرب 16 بنفس 16 مرة؟",
+      "في سياق التعليم ، ترجمة: ما هـي الإجابة عندما ينقسم 16 على 4؟"
+    ],
+    "choices_ar": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer_ar": "4",
+    "category_ar": "الرياضيات"
+  },{
+    "question": "What word tells you something is lower than another object?",
+    "choices": [
+      "Above",
+      "Under",
+      "Next to",
+      "Behind"
+    ],
+    "answer": "Under",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What word tells you something is lower than another object?",
+      "What is the term for indicating that something is situated below another thing?",
+      "What is the term for indicating that something is situated beneath another thing?",
+      "What is the term used to describe something that is smaller than another thing?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: ما هـي الكلمه اللي تخبرك بشيء اقل من كائن آخر؟",
+      "في سياق التعليم ، ترجمة: ما هـو مصطلح الإشارة إلى ان هـناك شيئًا ما اسفل شيء آخر؟",
+      "في سياق التعليم ، ترجمة: ما هـو مصطلح الإشارة إلى ان هـناك شيئًا ما يقع تحت شيء آخر؟",
+      "في سياق التعليم ، ترجمة: ما هـو المصطلح المستخدم لوصف شيء اصغر من شيء آخر؟"
+    ],
+    "choices_ar": [
+      "فوق",
+      "تحت",
+      "بجوار",
+      "خلف"
+    ],
+    "answer_ar": "تحت",
+    "category_ar": "الوعي المكاني"
+},{
+    "question": "Where is your nose?",
+    "choices": [
+      "On your hand",
+      "On your arm",
+      "On your face",
+      "On your foot"
+    ],
+    "answer": "On your face",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is your nose?",
+      "What is the location of your nasal cavity?",
+      "Can you tell me the location of your nose?",
+      "Can you tell me where your nose is located?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: اين انفك؟",
+      "في سياق التعليم ، ترجمة: ما هـو موقع تجويف الانف؟",
+      "في سياق التعليم ، ترجمة: هـل يمكن ان تخبرني موقع انفك؟",
+      "في سياق التعليم ، ترجمة: هـل يمكن ان تخبرني اين يقع انفك؟"
+    ],
+    "choices_ar": [
+      "على يدك",
+      "على ذراعك",
+      "على وجهـك",
+      "على قدمك"
+    ],
+    "answer_ar": "على وجهـك",
+    "category_ar": "الوعي المكاني"
+  },{
+    "question": "If a ball is between two chairs, where is it?",
+    "choices": [
+      "On the chairs",
+      "Outside the chairs",
+      "Between the chairs",
+      "Under the chairs"
+    ],
+    "answer": "Between the chairs",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If a ball is between two chairs, where is it?",
+      "Where can a ball be found if it is placed between two chairs?",
+      "Where is the location of the ball that is situated between two chairs?",
+      "Where can a ball be found if it is between two chairs?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، الترجمة: إذا كانت الكرة بين كرسيين ، فاين هـي؟",
+      "في سياق التعليم ، ترجمة: اين يمكن العثور على الكرة إذا تم وضعهـا بين كرسيين؟",
+      "في سياق التعليم ، ترجمة: اين هـو موقع الكرة اللي تقع بين كرسيين؟",
+      "في سياق التعليم ، ترجمة: اين يمكن العثور على الكرة إذا كانت بين كرسيين؟"
+    ],
+    "choices_ar": [
+      "على الكراسي",
+      "خارج الكراسي",
+      "بين الكراسي",
+      "تحت الكراسي"
+    ],
+    "answer_ar": "بين الكراسي",
+    "category_ar": "الوعي المكاني"
+  },{
+    "question": "Where is the teacher usually standing?",
+    "choices": [
+      "Behind the students",
+      "In front of the class",
+      "Outside the school",
+      "Next to the door"
+    ],
+    "answer": "In front of the class",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the teacher usually standing?",
+      "What is the usual location of the teacher's desk?",
+      "Where can I find the teacher's usual location?",
+      "What is the usual location of the teacher?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: اين يقف المعلم عادة؟",
+      "في سياق التعليم ، ترجمة: ما هـو الموقع المعتاد لمكتب المعلم؟",
+      "في سياق التعليم ، ترجمة: اين يمكنني ان اجد الموقع المعتاد للمعلم؟",
+      "في سياق التعليم ، ترجمة: ما هـو الموقع المعتاد للمعلم؟"
+    ],
+    "choices_ar": [
+      "وراء الطلاب",
+      "في سياق التعليم ، ترجمة: امام الفصل",
+      "خارج المدرسة",
+      "في سياق التعليم ، ترجمة: بجانب الباب"
+    ],
+    "answer_ar": "في سياق التعليم ، ترجمة: امام الفصل",
+    "category_ar": "الوعي المكاني"
+  },{
+    "question": "What is 'inside' the pencil case?",
+    "choices": [
+      "The chair",
+      "The pen",
+      "The wall",
+      "The book"
+    ],
+    "answer": "The pen",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What is 'inside' the pencil case?",
+      "What is contained within the inside of the pencil case?",
+      "What lies inside the pencil case?",
+      "What can be found inside the pencil case?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: ما هـو \"داخل\" حالة القلم الرصاص؟",
+      "في سياق التعليم ، ترجمة: ما هـو الوارد في الجزء الداخلي من علبة القلم الرصاص؟",
+      "في سياق التعليم ، ترجمة: ما الذي يكمن داخل علبة القلم الرصاص؟",
+      "في سياق التعليم ، ترجمة: ما الذي يمكن العثور عليهـ داخل علبة القلم الرصاص؟"
+    ],
+    "choices_ar": [
+      "الكرسي",
+      "القلم",
+      "الجدار",
+      "الكتاب"
+    ],
+    "answer_ar": "القلم",
+    "category_ar": "الوعي المكاني"
+  },{
+    "question": "If the box is in front of the boy, where is the boy?",
+    "choices": [
+      "Behind the box",
+      "Inside the box",
+      "On top of the box",
+      "Next to the box"
+    ],
+    "answer": "Behind the box",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If the box is in front of the boy, where is the boy?",
+      "Where can the boy be found if he is in the box in front of him?",
+      "Where is the boy if he is in front of the box?",
+      "In the box, where is the boy located if he is in front of it?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: إذا كان الصندوق امام الصبي ، فاين الصبي؟",
+      "في سياق التعليم ، ترجمة: اين يمكن العثور على الصبي إذا كان في الصندوق امامهـ؟",
+      "في سياق التعليم ، ترجمة: اين هـو الصبي إذا كان امام الصندوق؟",
+      "في سياق التعليم ، ترجمة: في الصندوق ، اين يقع الصبي إذا كان امامهـ؟"
+    ],
+    "choices_ar": [
+      "خلف الصندوق",
+      "داخل الصندوق",
+      "في سياق التعليم ، ترجمة: اعلى الصندوق",
+      "في سياق التعليم ، ترجمة: بجانب الصندوق"
+    ],
+    "answer_ar": "خلف الصندوق",
+    "category_ar": "الوعي المكاني"
+  },{
+    "question": "Where is the clock usually placed in a classroom?",
+    "choices": [
+      "On the floor",
+      "Under the table",
+      "On the wall",
+      "In the drawer"
+    ],
+    "answer": "On the wall",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the clock usually placed in a classroom?",
+      "What is the customary placement of the clock in a classroom?",
+      "What is the typical placement of the clock in a classroom?",
+      "In what area of a classroom is the clock usually located?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: اين يتم وضع الساعة عادة في الفصل الدراسي؟",
+      "في سياق التعليم ، ترجمة: ما هـو الموضع العرفي على مدار الساعة في الفصل الدراسي؟",
+      "في سياق التعليم ، ترجمة: ما هـو الموضع النموذجي على مدار الساعة في الفصل الدراسي؟",
+      "في سياق التعليم ، ترجمة: في اي مجال من الفصول الدراسية تقع الساعة عادة؟"
+    ],
+    "choices_ar": [
+      "على الارض",
+      "تحت الطاولة",
+      "على الحائط",
+      "في الدرج"
+    ],
+    "answer_ar": "على الحائط",
+    "category_ar": "الوعي المكاني"
+  },{
+    "question": "If a person is standing behind you, where are they?",
+    "choices": [
+      "In front of you",
+      "Next to you",
+      "Behind you",
+      "Above you"
+    ],
+    "answer": "Behind you",
+    "category": "Directionality",
+    "versions": [
+      "If a person is standing behind you, where are they?",
+      "If someone is behind you, where is the person?",
+      "If someone is following you, where is the person?",
+      "Where is the person standing in your way?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: إذا كان الشخص يقف خلفك ، فاين هـم؟",
+      "في سياق التعليم ، ترجمة: إذا كان شخص ما وراءك ، فاين الشخص؟",
+      "في سياق التعليم ، ترجمة: إذا كان شخص ما يتابعك ، فاين هـو الشخص؟",
+      "في سياق التعليم ، ترجمة: اين يقف الشخص في طريقك؟"
+    ],
+    "choices_ar": [
+      "في سياق التعليم ، ترجمة: امامك",
+      "بجوارك",
+      "خلفك",
+      "فوقك"
+    ],
+    "answer_ar": "خلفك",
+    "category_ar": "الاتجاهـ"
+  },{
+    "question": "If you're facing east and turn right, where are you facing?",
+    "choices": [
+      "South",
+      "North",
+      "West",
+      "East"
+    ],
+    "answer": "South",
+    "category": "Directionality",
+    "versions": [
+      "If you're facing east and turn right, where are you facing?",
+      "When you turn right and face east, where is the destination?",
+      "If you turn right and face east, where do you currently stand?",
+      "When you turn right facing east, where do you see?"
+    ],
+    "versions_ar": [
+      "في سياق التعليم ، ترجمة: إذا كنت تواجهـ الشرق وانتقل يمينًا ، فاين تواجهـ؟",
+      "في سياق التعليم ، ترجمة: عندما تتجهـ يمينًا وتواجهـ شرقًا ، اين هـي الوجهـة؟",
+      "في سياق التعليم ، ترجمة: إذا تحولت يمينًا وتواجهـ شرقًا ، فاين تقف حاليًا؟",
+      "في سياق التعليم ، ترجمة: عندما تدور يمينًا في مواجهـة الشرق ، اين ترى؟"
+    ],
+    "choices_ar": [
+      "جنوب",
+      "شمال",
+      "الغرب",
+      "شرق"
+    ],
+    "answer_ar": "جنوب",
+    "category_ar": "الاتجاهـ"
+  }
+]

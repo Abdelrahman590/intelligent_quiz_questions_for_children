@@ -1,0 +1,2786 @@
+[
+  {
+    "question": "Which letter comes after 'B'?",
+    "choices": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "C",
+    "category": "Letters",
+    "versions": [
+      "Which letter comes after 'B'?",
+      "What letter follows the letter 'B'?",
+      "What is the following letter of the letter 'B'?",
+      "What is the next letter in alphabet?"
+    ],
+    "versions_ar": [
+      "Which letter comes after 'B'?",
+      "What letter follows the letter 'B'?",
+      "What is the following letter of the letter 'B'?",
+      "What is the next letter in alphabet?"
+    ],
+    "choices_ar": [
+      "أ",
+      "ج",
+      "د",
+      "هـ"
+    ],
+    "answer_ar": "ج",
+    "category_ar": "Letters"
+  },
+  {
+    "question": "What is the first letter of the word 'Apple'?",
+    "choices": [
+      "A",
+      "P",
+      "E",
+      "L"
+    ],
+    "answer": "A",
+    "category": "Letters",
+    "versions": [
+      "What is the first letter of the word 'Apple'?",
+      "What is the opening letter of the alphabet for the word 'Apple'?",
+      "What is the opening letter of the word 'Apple'?",
+      "What is the initial character of the word 'Apple'?"
+    ],
+    "versions_ar": [
+      "What is the first letter of the word 'Apple'?",
+      "What is the opening letter of the alphabet for the word 'Apple'?",
+      "What is the opening letter of the word 'Apple'?",
+      "What is the initial character of the word 'Apple'?"
+    ],
+    "choices_ar": [
+      "أ",
+      "ب",
+      "هـ",
+      "ل"
+    ],
+    "answer_ar": "أ",
+    "category_ar": "Letters"
+  },
+  {
+    "question": "Which word starts with the letter 'D'?",
+    "choices": [
+      "Car",
+      "Dog",
+      "Apple",
+      "Sun"
+    ],
+    "answer": "Dog",
+    "category": "Words",
+    "versions": [
+      "Which word starts with the letter 'D'?",
+      "What is a word that starts with the letter 'D'?",
+      "What is a word that begins with the letter 'D'?",
+      "What is the first letter of a word?"
+    ],
+    "versions_ar": [
+      "Which word starts with the letter 'D'?",
+      "What is a word that starts with the letter 'D'?",
+      "What is a word that begins with the letter 'D'?",
+      "What is the first letter of a word?"
+    ],
+    "choices_ar": [
+      "Car",
+      "Dog",
+      "Apple",
+      "Sun"
+    ],
+    "answer_ar": "Dog",
+    "category_ar": "Words"
+  },
+  {
+    "question": "What is the missing word? 'The cat is ____ the box.'",
+    "choices": [
+      "in",
+      "on",
+      "under",
+      "at"
+    ],
+    "answer": "in",
+    "category": "Sentences",
+    "versions": [
+      "What is the missing word? 'The cat is ____ the box.'",
+      "What is the missing word in this sentence? 'The cat is ____ the box.",
+      "What is the missing word? 'The cat is ____ the box.",
+      "What is the missing word in this sentence? 'The cat is ____ the box.'"
+    ],
+    "versions_ar": [
+      "What is the missing word? 'The cat is ____ the box.'",
+      "What is the missing word in this sentence? 'The cat is ____ the box.",
+      "What is the missing word? 'The cat is ____ the box.",
+      "What is the missing word in this sentence? 'The cat is ____ the box.'"
+    ],
+    "choices_ar": [
+      "in",
+      "on",
+      "under",
+      "at"
+    ],
+    "answer_ar": "in",
+    "category_ar": "Sentences"
+  },
+  {
+    "question": "Which of these is a complete sentence?",
+    "choices": [
+      "Running fast",
+      "The boy runs",
+      "Very happy",
+      "In the school"
+    ],
+    "answer": "The boy runs",
+    "category": "Sentences",
+    "versions": [
+      "Which of these is a complete sentence?",
+      "Which of the following is a sentence that is complete?",
+      "Which one of these sentences is a complete one?",
+      "Which of the following is a sentence in its entirety?"
+    ],
+    "versions_ar": [
+      "Which of these is a complete sentence?",
+      "Which of the following is a sentence that is complete?",
+      "Which one of these sentences is a complete one?",
+      "Which of the following is a sentence in its entirety?"
+    ],
+    "choices_ar": [
+      "Running fast",
+      "The boy runs",
+      "Very happy",
+      "In the school"
+    ],
+    "answer_ar": "The boy runs",
+    "category_ar": "Sentences"
+  },
+  {
+    "question": "Which word does not belong?",
+    "choices": [
+      "Apple",
+      "Banana",
+      "Chair",
+      "Orange"
+    ],
+    "answer": "Chair",
+    "category": "Words",
+    "versions": [
+      "Which word does not belong?",
+      "What is a word that is not appropriate?",
+      "What is an untruthful word?",
+      "Which word is not a valid option?"
+    ],
+    "versions_ar": [
+      "Which word does not belong?",
+      "What is a word that is not appropriate?",
+      "What is an untruthful word?",
+      "Which word is not a valid option?"
+    ],
+    "choices_ar": [
+      "Apple",
+      "Banana",
+      "Chair",
+      "Orange"
+    ],
+    "answer_ar": "Chair",
+    "category_ar": "Words"
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "choices": [
+      "I like play",
+      "I playing",
+      "I like to play",
+      "Like I play"
+    ],
+    "answer": "I like to play",
+    "category": "Sentences",
+    "versions": [
+      "Choose the correct sentence:",
+      "Which sentence is correct?",
+      "What is the appropriate sentence?"
+    ],
+    "versions_ar": [
+      "Choose the correct sentence:",
+      "Which sentence is correct?",
+      "What is the appropriate sentence?"
+    ],
+    "choices_ar": [
+      "I like play",
+      "I playing",
+      "I like to play",
+      "Like I play"
+    ],
+    "answer_ar": "I like to play",
+    "category_ar": "Sentences"
+  },
+  {
+    "question": "What is the opposite of 'hot'?",
+    "choices": [
+      "cold",
+      "warm",
+      "fire",
+      "heat"
+    ],
+    "answer": "cold",
+    "category": "Words",
+    "versions": [
+      "What is the opposite of 'hot'?",
+      "What is the opposite meaning of 'hot'?",
+      "What is the reverse meaning of 'hot'?",
+      "What is the antonym of hot?"
+    ],
+    "versions_ar": [
+      "What is the opposite of 'hot'?",
+      "What is the opposite meaning of 'hot'?",
+      "What is the reverse meaning of 'hot'?",
+      "What is the antonym of hot?"
+    ],
+    "choices_ar": [
+      "cold",
+      "warm",
+      "fire",
+      "heat"
+    ],
+    "answer_ar": "cold",
+    "category_ar": "Words"
+  },
+  {
+    "question": "Which one is a verb?",
+    "choices": [
+      "Run",
+      "Blue",
+      "Chair",
+      "Apple"
+    ],
+    "answer": "Run",
+    "category": "Words",
+    "versions": [
+      "Which one is a verb?",
+      "What is a verb?",
+      "What is a noun?",
+      "What is a form of a verb?"
+    ],
+    "versions_ar": [
+      "Which one is a verb?",
+      "What is a verb?",
+      "What is a noun?",
+      "What is a form of a verb?"
+    ],
+    "choices_ar": [
+      "Run",
+      "Blue",
+      "Chair",
+      "Apple"
+    ],
+    "answer_ar": "Run",
+    "category_ar": "Words"
+  },
+  {
+    "question": "What is the plural of 'cat'?",
+    "choices": [
+      "Cats",
+      "Cated",
+      "Cat",
+      "Cattes"
+    ],
+    "answer": "Cats",
+    "category": "Words",
+    "versions": [
+      "What is the plural of 'cat'?",
+      "What is the plural of the word 'cat'?",
+      "How do you make 'cat' plural?",
+      "How do you make the word 'cat' plural?"
+    ],
+    "versions_ar": [
+      "What is the plural of 'cat'?",
+      "What is the plural of the word 'cat'?",
+      "How do you make 'cat' plural?",
+      "How do you make the word 'cat' plural?"
+    ],
+    "choices_ar": [
+      "Cats",
+      "Cated",
+      "Cat",
+      "Cattes"
+    ],
+    "answer_ar": "Cats",
+    "category_ar": "Words"
+  },
+  {
+    "question": "Choose the correct article: ___ apple",
+    "choices": [
+      "A",
+      "An",
+      "The",
+      "Some"
+    ],
+    "answer": "An",
+    "category": "Sentences",
+    "versions": [
+      "Choose the correct article: ___ apple",
+      "What is the appropriate choice: __ apple?",
+      "Which article is appropriate: apple ___?",
+      "What is the right choice: __ apple?"
+    ],
+    "versions_ar": [
+      "Choose the correct article: ___ apple",
+      "What is the appropriate choice: __ apple?",
+      "Which article is appropriate: apple ___?",
+      "What is the right choice: __ apple?"
+    ],
+    "choices_ar": [
+      "أ",
+      "An",
+      "The",
+      "Some"
+    ],
+    "answer_ar": "An",
+    "category_ar": "Sentences"
+  },
+  {
+    "question": "What is the last letter in 'Dog'?",
+    "choices": [
+      "D",
+      "G",
+      "O",
+      "T"
+    ],
+    "answer": "G",
+    "category": "Letters",
+    "versions": [
+      "What is the last letter in 'Dog'?",
+      "What is the final letter in 'Dog'?",
+      "What is the ending pronoun used in the title 'Dog'?",
+      "What is the letter that completes 'Dog'?"
+    ],
+    "versions_ar": [
+      "What is the last letter in 'Dog'?",
+      "What is the final letter in 'Dog'?",
+      "What is the ending pronoun used in the title 'Dog'?",
+      "What is the letter that completes 'Dog'?"
+    ],
+    "choices_ar": [
+      "د",
+      "ج",
+      "و",
+      "ت"
+    ],
+    "answer_ar": "ج",
+    "category_ar": "Letters"
+  },
+  {
+    "question": "Which sentence describes a happy feeling?",
+    "choices": [
+      "She is crying",
+      "He is jumping with joy",
+      "They are sad",
+      "The dog is barking"
+    ],
+    "answer": "He is jumping with joy",
+    "category": "Comprehension",
+    "versions": [
+      "Which sentence describes a happy feeling?",
+      "What is the word that characterizes a positive feeling?",
+      "What is the word that characterizes a feeling of contentment?",
+      "What is the word that characterizes a feeling of joy and happiness?"
+    ],
+    "versions_ar": [
+      "Which sentence describes a happy feeling?",
+      "What is the word that characterizes a positive feeling?",
+      "What is the word that characterizes a feeling of contentment?",
+      "What is the word that characterizes a feeling of joy and happiness?"
+    ],
+    "choices_ar": [
+      "She is crying",
+      "He is jumping with joy",
+      "They are sad",
+      "The dog is barking"
+    ],
+    "answer_ar": "He is jumping with joy",
+    "category_ar": "Comprehension"
+  },
+  {
+    "question": "What do you do with a book?",
+    "choices": [
+      "Eat",
+      "Read",
+      "Throw",
+      "Sit"
+    ],
+    "answer": "Read",
+    "category": "Comprehension",
+    "versions": [
+      "What do you do with a book?",
+      "What is your approach to using a book?",
+      "How do you utilize a book?",
+      "What do you typically do with a book?"
+    ],
+    "versions_ar": [
+      "What do you do with a book?",
+      "What is your approach to using a book?",
+      "How do you utilize a book?",
+      "What do you typically do with a book?"
+    ],
+    "choices_ar": [
+      "Eat",
+      "Read",
+      "Throw",
+      "Sit"
+    ],
+    "answer_ar": "Read",
+    "category_ar": "Comprehension"
+  },
+  {
+    "question": "Which sentence is about food?",
+    "choices": [
+      "The bird flies",
+      "He eats pizza",
+      "The sky is blue",
+      "They run fast"
+    ],
+    "answer": "He eats pizza",
+    "category": "Comprehension",
+    "versions": [
+      "Which sentence is about food?",
+      "What is the sentence that pertains to the topic of food?",
+      "What sentence pertains to the topic of food?",
+      "What is the food related sentence?"
+    ],
+    "versions_ar": [
+      "Which sentence is about food?",
+      "What is the sentence that pertains to the topic of food?",
+      "What sentence pertains to the topic of food?",
+      "What is the food related sentence?"
+    ],
+    "choices_ar": [
+      "The bird flies",
+      "He eats pizza",
+      "The sky is blue",
+      "They run fast"
+    ],
+    "answer_ar": "He eats pizza",
+    "category_ar": "Comprehension"
+  },
+  {
+    "question": "Find the question sentence:",
+    "choices": [
+      "He likes apples",
+      "Do you like apples?",
+      "Apples are tasty",
+      "I eat apples"
+    ],
+    "answer": "Do you like apples?",
+    "category": "Sentences",
+    "versions": [
+      "Find the question sentence:",
+      "Find the question sentence?"
+    ],
+    "versions_ar": [
+      "Find the question sentence:",
+      "Find the question sentence?"
+    ],
+    "choices_ar": [
+      "He likes apples",
+      "Do you like apples?",
+      "Apples are tasty",
+      "I eat apples"
+    ],
+    "answer_ar": "Do you like apples?",
+    "category_ar": "Sentences"
+  },
+  {
+    "question": "Which of these words is a color?",
+    "choices": [
+      "Run",
+      "Blue",
+      "Eat",
+      "Happy"
+    ],
+    "answer": "Blue",
+    "category": "Words",
+    "versions": [
+      "Which of these words is a color?",
+      "What is the name of the color in these words?",
+      "Which one of these words is a shade?",
+      "What is the name of the color in this word?"
+    ],
+    "versions_ar": [
+      "Which of these words is a color?",
+      "What is the name of the color in these words?",
+      "Which one of these words is a shade?",
+      "What is the name of the color in this word?"
+    ],
+    "choices_ar": [
+      "Run",
+      "Blue",
+      "Eat",
+      "Happy"
+    ],
+    "answer_ar": "Blue",
+    "category_ar": "Words"
+  },
+  {
+    "question": "Which one is a question word?",
+    "choices": [
+      "Why",
+      "Book",
+      "Chair",
+      "Dog"
+    ],
+    "answer": "Why",
+    "category": "Words",
+    "versions": [
+      "Which one is a question word?",
+      "What is the name for a word used in asking questions?",
+      "What is the term for a word used in the context of a question?",
+      "What is a word that can be used as a prompt?"
+    ],
+    "versions_ar": [
+      "Which one is a question word?",
+      "What is the name for a word used in asking questions?",
+      "What is the term for a word used in the context of a question?",
+      "What is a word that can be used as a prompt?"
+    ],
+    "choices_ar": [
+      "Why",
+      "Book",
+      "Chair",
+      "Dog"
+    ],
+    "answer_ar": "Why",
+    "category_ar": "Words"
+  },
+  {
+    "question": "What do you do at night?",
+    "choices": [
+      "Eat breakfast",
+      "Sleep",
+      "Go to school",
+      "Play in sun"
+    ],
+    "answer": "Sleep",
+    "category": "Comprehension",
+    "versions": [
+      "What do you do at night?",
+      "How do you spend your evenings?",
+      "What activities do you engage in during the evening hours?",
+      "What activities do you engage in during the night?"
+    ],
+    "versions_ar": [
+      "What do you do at night?",
+      "How do you spend your evenings?",
+      "What activities do you engage in during the evening hours?",
+      "What activities do you engage in during the night?"
+    ],
+    "choices_ar": [
+      "Eat breakfast",
+      "Sleep",
+      "Go to school",
+      "Play in sun"
+    ],
+    "answer_ar": "Sleep",
+    "category_ar": "Comprehension"
+  },
+  {
+    "question": "Which sentence tells about the weather?",
+    "choices": [
+      "It is raining",
+      "He runs fast",
+      "She is happy",
+      "They eat apples"
+    ],
+    "answer": "It is raining",
+    "category": "Comprehension",
+    "versions": [
+      "Which sentence tells about the weather?",
+      "What is an example of a sentence that talks about the weather?",
+      "What is an example of a sentence that describes the weather?",
+      "What is a sentence that describes the weather?"
+    ],
+    "versions_ar": [
+      "Which sentence tells about the weather?",
+      "What is an example of a sentence that talks about the weather?",
+      "What is an example of a sentence that describes the weather?",
+      "What is a sentence that describes the weather?"
+    ],
+    "choices_ar": [
+      "It is raining",
+      "He runs fast",
+      "She is happy",
+      "They eat apples"
+    ],
+    "answer_ar": "It is raining",
+    "category_ar": "Comprehension"
+  },
+  {
+    "question": "What is 7 + 5?",
+    "choices": [
+      "13",
+      "12",
+      "11",
+      "14"
+    ],
+    "answer": "12",
+    "category": "Math",
+    "versions": [
+      "What is 7 + 5?",
+      "What is the answer when you add 7 and 5?",
+      "What is the total of 7 and 5?",
+      "What is the result of adding 5 to the total of 7?"
+    ],
+    "versions_ar": [
+      "What is 7 + 5?",
+      "What is the answer when you add 7 and 5?",
+      "What is the total of 7 and 5?",
+      "What is the result of adding 5 to the total of 7?"
+    ],
+    "choices_ar": [
+      "13",
+      "12",
+      "11",
+      "14"
+    ],
+    "answer_ar": "12",
+    "category_ar": "Math"
+  },
+  {
+    "question": "How much is 18 - 9?",
+    "choices": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer": "9",
+    "category": "Math",
+    "versions": [
+      "How much is 18 - 9?",
+      "What is the value of 18 raised to the 9th power?",
+      "What is the quotient when 18 is added to 9?",
+      "What is the sum of 18 and 9?"
+    ],
+    "versions_ar": [
+      "How much is 18 - 9?",
+      "What is the value of 18 raised to the 9th power?",
+      "What is the quotient when 18 is added to 9?",
+      "What is the sum of 18 and 9?"
+    ],
+    "choices_ar": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer_ar": "9",
+    "category_ar": "Math"
+  },
+  {
+    "question": "What is 4 x 4?",
+    "choices": [
+      "12",
+      "16",
+      "14",
+      "18"
+    ],
+    "answer": "16",
+    "category": "Math",
+    "versions": [
+      "What is 4 x 4?",
+      "What is the result of 4 multiplied by itself?",
+      "What is the answer to 4 multiplied by 4?",
+      "What is the outcome of 4 multiplied by itself?"
+    ],
+    "versions_ar": [
+      "What is 4 x 4?",
+      "What is the result of 4 multiplied by itself?",
+      "What is the answer to 4 multiplied by 4?",
+      "What is the outcome of 4 multiplied by itself?"
+    ],
+    "choices_ar": [
+      "12",
+      "16",
+      "14",
+      "18"
+    ],
+    "answer_ar": "16",
+    "category_ar": "Math"
+  },
+  {
+    "question": "What is 20 ÷ 5?",
+    "choices": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "4",
+    "category": "Math",
+    "versions": [
+      "What is 20 ÷ 5?",
+      "What is the result of 20 to the power of 5?",
+      "What is the result of multiplying 20 by 5?",
+      "What is the value of 20 to the power of 5?"
+    ],
+    "versions_ar": [
+      "What is 20 ÷ 5?",
+      "What is the result of 20 to the power of 5?",
+      "What is the result of multiplying 20 by 5?",
+      "What is the value of 20 to the power of 5?"
+    ],
+    "choices_ar": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer_ar": "4",
+    "category_ar": "Math"
+  },
+  {
+    "question": "What is 6 + 9?",
+    "choices": [
+      "14",
+      "15",
+      "16",
+      "13"
+    ],
+    "answer": "15",
+    "category": "Math",
+    "versions": [
+      "What is 6 + 9?",
+      "What is the result of adding 6 and 9?",
+      "What is the answer to 6 plus 9?",
+      "What is the sum of 6 and 9?"
+    ],
+    "versions_ar": [
+      "What is 6 + 9?",
+      "What is the result of adding 6 and 9?",
+      "What is the answer to 6 plus 9?",
+      "What is the sum of 6 and 9?"
+    ],
+    "choices_ar": [
+      "14",
+      "15",
+      "16",
+      "13"
+    ],
+    "answer_ar": "15",
+    "category_ar": "Math"
+  },
+  {
+    "question": "How much is 10 - 7?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3",
+    "category": "Math",
+    "versions": [
+      "How much is 10 - 7?",
+      "What is the total of 10 and 7?",
+      "What is the numerical worth of 10 to 7?",
+      "What is the sum of 10 and 7?"
+    ],
+    "versions_ar": [
+      "How much is 10 - 7?",
+      "What is the total of 10 and 7?",
+      "What is the numerical worth of 10 to 7?",
+      "What is the sum of 10 and 7?"
+    ],
+    "choices_ar": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer_ar": "3",
+    "category_ar": "Math"
+  },
+  {
+    "question": "What is 5 x 3?",
+    "choices": [
+      "15",
+      "12",
+      "10",
+      "18"
+    ],
+    "answer": "15",
+    "category": "Math",
+    "versions": [
+      "What is 5 x 3?",
+      "What is the solution to 5 multiplied by 3?",
+      "What is the result of multiplying 5 and 3?",
+      "What is the result of multiplying 5 and then adding 2/3?"
+    ],
+    "versions_ar": [
+      "What is 5 x 3?",
+      "What is the solution to 5 multiplied by 3?",
+      "What is the result of multiplying 5 and 3?",
+      "What is the result of multiplying 5 and then adding 2/3?"
+    ],
+    "choices_ar": [
+      "15",
+      "12",
+      "10",
+      "18"
+    ],
+    "answer_ar": "15",
+    "category_ar": "Math"
+  },
+  {
+    "question": "What is 16 ÷ 4?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "category": "Math",
+    "versions": [
+      "What is 16 ÷ 4?",
+      "What is the answer when 16 is divided by 4?",
+      "What is the result of multiplying 16 by 4?",
+      "What is the square root of 16?"
+    ],
+    "versions_ar": [
+      "What is 16 ÷ 4?",
+      "What is the answer when 16 is divided by 4?",
+      "What is the result of multiplying 16 by 4?",
+      "What is the square root of 16?"
+    ],
+    "choices_ar": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer_ar": "4",
+    "category_ar": "Math"
+  },
+  {
+    "question": "What is 2 + 8?",
+    "choices": [
+      "10",
+      "11",
+      "9",
+      "8"
+    ],
+    "answer": "10",
+    "category": "Math",
+    "versions": [
+      "What is 2 + 8?",
+      "What is the solution to 2 plus 8?",
+      "What is the total of 2 and 8?",
+      "What is the total when 2 and 8 are combined?"
+    ],
+    "versions_ar": [
+      "What is 2 + 8?",
+      "What is the solution to 2 plus 8?",
+      "What is the total of 2 and 8?",
+      "What is the total when 2 and 8 are combined?"
+    ],
+    "choices_ar": [
+      "10",
+      "11",
+      "9",
+      "8"
+    ],
+    "answer_ar": "10",
+    "category_ar": "Math"
+  },
+  {
+    "question": "What is 9 x 1?",
+    "choices": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ],
+    "answer": "9",
+    "category": "Math",
+    "versions": [
+      "What is 9 x 1?",
+      "What is the result of multiplying 1 by 9?",
+      "What is the result of multiplying 9 and 1?",
+      "What is the outcome of 9 multiplied by the product of 1?"
+    ],
+    "versions_ar": [
+      "What is 9 x 1?",
+      "What is the result of multiplying 1 by 9?",
+      "What is the result of multiplying 9 and 1?",
+      "What is the outcome of 9 multiplied by the product of 1?"
+    ],
+    "choices_ar": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ],
+    "answer_ar": "9",
+    "category_ar": "Math"
+  },
+  {
+    "question": "When do you eat breakfast?",
+    "choices": [
+      "At night",
+      "In the morning",
+      "In the evening",
+      "Before bed"
+    ],
+    "answer": "In the morning",
+    "category": "Time & Place",
+    "versions": [
+      "When do you eat breakfast?",
+      "When do you typically have your morning meal?",
+      "When do you usually have your morning meal?",
+      "At what time do you usually have breakfast?"
+    ],
+    "versions_ar": [
+      "When do you eat breakfast?",
+      "When do you typically have your morning meal?",
+      "When do you usually have your morning meal?",
+      "At what time do you usually have breakfast?"
+    ],
+    "choices_ar": [
+      "At night",
+      "In the morning",
+      "In the evening",
+      "Before bed"
+    ],
+    "answer_ar": "In the morning",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "Where do you sleep?",
+    "choices": [
+      "Kitchen",
+      "Classroom",
+      "Bedroom",
+      "Park"
+    ],
+    "answer": "Bedroom",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you sleep?",
+      "In what location do you find yourself sleeping?",
+      "Where is your preferred spot for sleeping?",
+      "What is your preferred sleeping spot?"
+    ],
+    "versions_ar": [
+      "Where do you sleep?",
+      "In what location do you find yourself sleeping?",
+      "Where is your preferred spot for sleeping?",
+      "What is your preferred sleeping spot?"
+    ],
+    "choices_ar": [
+      "Kitchen",
+      "Classroom",
+      "Bedroom",
+      "Park"
+    ],
+    "answer_ar": "Bedroom",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "What do you wear when it’s raining?",
+    "choices": [
+      "Sunglasses",
+      "Raincoat",
+      "Shorts",
+      "Swimsuit"
+    ],
+    "answer": "Raincoat",
+    "category": "Time & Place",
+    "versions": [
+      "What do you wear when it’s raining?",
+      "What clothing do you usually put on when it rains?",
+      "What clothing do you put on when it rains?",
+      "What clothing do you put on in the rain?"
+    ],
+    "versions_ar": [
+      "What do you wear when it’s raining?",
+      "What clothing do you usually put on when it rains?",
+      "What clothing do you put on when it rains?",
+      "What clothing do you put on in the rain?"
+    ],
+    "choices_ar": [
+      "Sunglasses",
+      "Raincoat",
+      "Shorts",
+      "Swimsuit"
+    ],
+    "answer_ar": "Raincoat",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "When do you go to school?",
+    "choices": [
+      "Morning",
+      "Midnight",
+      "Evening",
+      "Afternoon"
+    ],
+    "answer": "Morning",
+    "category": "Time & Place",
+    "versions": [
+      "When do you go to school?",
+      "When do you typically attend school?",
+      "At what time do you typically go to school?",
+      "What is your usual schooling schedule?"
+    ],
+    "versions_ar": [
+      "When do you go to school?",
+      "When do you typically attend school?",
+      "At what time do you typically go to school?",
+      "What is your usual schooling schedule?"
+    ],
+    "choices_ar": [
+      "Morning",
+      "Midnight",
+      "Evening",
+      "Afternoon"
+    ],
+    "answer_ar": "Morning",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "Where do you go to buy food?",
+    "choices": [
+      "Hospital",
+      "Library",
+      "Supermarket",
+      "Cinema"
+    ],
+    "answer": "Supermarket",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you go to buy food?",
+      "Where do you buy food?",
+      "What is your go-to spot for purchasing food?",
+      "What is your go-to spot for buying food?"
+    ],
+    "versions_ar": [
+      "Where do you go to buy food?",
+      "Where do you buy food?",
+      "What is your go-to spot for purchasing food?",
+      "What is your go-to spot for buying food?"
+    ],
+    "choices_ar": [
+      "Hospital",
+      "Library",
+      "Supermarket",
+      "Cinema"
+    ],
+    "answer_ar": "Supermarket",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "What day comes after Monday?",
+    "choices": [
+      "Sunday",
+      "Wednesday",
+      "Tuesday",
+      "Friday"
+    ],
+    "answer": "Tuesday",
+    "category": "Time & Place",
+    "versions": [
+      "What day comes after Monday?",
+      "What day follows Monday?",
+      "What is the following day from Monday?",
+      "What is the next day after Monday?"
+    ],
+    "versions_ar": [
+      "What day comes after Monday?",
+      "What day follows Monday?",
+      "What is the following day from Monday?",
+      "What is the next day after Monday?"
+    ],
+    "choices_ar": [
+      "Sunday",
+      "Wednesday",
+      "Tuesday",
+      "Friday"
+    ],
+    "answer_ar": "Tuesday",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "Where do you find books to read?",
+    "choices": [
+      "Gym",
+      "Bakery",
+      "Library",
+      "Garden"
+    ],
+    "answer": "Library",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you find books to read?",
+      "What is your go-to spot for reading?",
+      "What is your go-to spot for reading books?",
+      "What is your place to read books?"
+    ],
+    "versions_ar": [
+      "Where do you find books to read?",
+      "What is your go-to spot for reading?",
+      "What is your go-to spot for reading books?",
+      "What is your place to read books?"
+    ],
+    "choices_ar": [
+      "Gym",
+      "Bakery",
+      "Library",
+      "Garden"
+    ],
+    "answer_ar": "Library",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "When do you say 'Good night'?",
+    "choices": [
+      "In the morning",
+      "At lunch",
+      "At night",
+      "In class"
+    ],
+    "answer": "At night",
+    "category": "Time & Place",
+    "versions": [
+      "When do you say 'Good night'?",
+      "What is the appropriate time to say 'Good night'?",
+      "At what time do you greet someone with a \"Good night\"?",
+      "At what point do you greet someone with \"Good night\"?"
+    ],
+    "versions_ar": [
+      "When do you say 'Good night'?",
+      "What is the appropriate time to say 'Good night'?",
+      "At what time do you greet someone with a \"Good night\"?",
+      "At what point do you greet someone with \"Good night\"?"
+    ],
+    "choices_ar": [
+      "In the morning",
+      "At lunch",
+      "At night",
+      "In class"
+    ],
+    "answer_ar": "At night",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "Where do you play football?",
+    "choices": [
+      "Bathroom",
+      "Stadium",
+      "Bedroom",
+      "Kitchen"
+    ],
+    "answer": "Stadium",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you play football?",
+      "What is the location of your football practice?",
+      "What is the location of your football game?",
+      "In what location do you enjoy watching football?"
+    ],
+    "versions_ar": [
+      "Where do you play football?",
+      "What is the location of your football practice?",
+      "What is the location of your football game?",
+      "In what location do you enjoy watching football?"
+    ],
+    "choices_ar": [
+      "Bathroom",
+      "Stadium",
+      "Bedroom",
+      "Kitchen"
+    ],
+    "answer_ar": "Stadium",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "What season is hot and sunny?",
+    "choices": [
+      "Winter",
+      "Autumn",
+      "Summer",
+      "Spring"
+    ],
+    "answer": "Summer",
+    "category": "Time & Place",
+    "versions": [
+      "What season is hot and sunny?",
+      "At what time of the year is it most pleasant to be active?",
+      "At what time of the year is it most pleasant to be outside?",
+      "At what time of the year is it most pleasant to be warm and sunny?"
+    ],
+    "versions_ar": [
+      "What season is hot and sunny?",
+      "At what time of the year is it most pleasant to be active?",
+      "At what time of the year is it most pleasant to be outside?",
+      "At what time of the year is it most pleasant to be warm and sunny?"
+    ],
+    "choices_ar": [
+      "Winter",
+      "Autumn",
+      "Summer",
+      "Spring"
+    ],
+    "answer_ar": "Summer",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "Where do you go to learn?",
+    "choices": [
+      "Zoo",
+      "Mall",
+      "School",
+      "Beach"
+    ],
+    "answer": "School",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you go to learn?",
+      "What is the location of your educational facility?",
+      "Where do you receive your academic education?",
+      "What is the location of your educational institution?"
+    ],
+    "versions_ar": [
+      "Where do you go to learn?",
+      "What is the location of your educational facility?",
+      "Where do you receive your academic education?",
+      "What is the location of your educational institution?"
+    ],
+    "choices_ar": [
+      "Zoo",
+      "Mall",
+      "School",
+      "Beach"
+    ],
+    "answer_ar": "School",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "What time do you go to bed?",
+    "choices": [
+      "Morning",
+      "Evening",
+      "Noon",
+      "Afternoon"
+    ],
+    "answer": "Evening",
+    "category": "Time & Place",
+    "versions": [
+      "What time do you go to bed?",
+      "What time do you usually go to sleep?",
+      "When do you go to sleep?",
+      "When do you usually go to bed?"
+    ],
+    "versions_ar": [
+      "What time do you go to bed?",
+      "What time do you usually go to sleep?",
+      "When do you go to sleep?",
+      "When do you usually go to bed?"
+    ],
+    "choices_ar": [
+      "Morning",
+      "Evening",
+      "Noon",
+      "Afternoon"
+    ],
+    "answer_ar": "Evening",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "Where do airplanes take off?",
+    "choices": [
+      "Bus station",
+      "Train station",
+      "Airport",
+      "Harbor"
+    ],
+    "answer": "Airport",
+    "category": "Time & Place",
+    "versions": [
+      "Where do airplanes take off?",
+      "What is the starting point for airplanes?",
+      "At what location do airplanes take off?",
+      "Where do planes take off?"
+    ],
+    "versions_ar": [
+      "Where do airplanes take off?",
+      "What is the starting point for airplanes?",
+      "At what location do airplanes take off?",
+      "Where do planes take off?"
+    ],
+    "choices_ar": [
+      "Bus station",
+      "Train station",
+      "Airport",
+      "Harbor"
+    ],
+    "answer_ar": "Airport",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "What day comes before Friday?",
+    "choices": [
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "answer": "Thursday",
+    "category": "Time & Place",
+    "versions": [
+      "What day comes before Friday?",
+      "What is the day before Friday?",
+      "What is the day preceding Friday?",
+      "What day precedes Friday?"
+    ],
+    "versions_ar": [
+      "What day comes before Friday?",
+      "What is the day before Friday?",
+      "What is the day preceding Friday?",
+      "What day precedes Friday?"
+    ],
+    "choices_ar": [
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "answer_ar": "Thursday",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "When do you wear a coat?",
+    "choices": [
+      "In summer",
+      "In winter",
+      "At the beach",
+      "While sleeping"
+    ],
+    "answer": "In winter",
+    "category": "Time & Place",
+    "versions": [
+      "When do you wear a coat?",
+      "What is the appropriate time to wear a coat?",
+      "What is the right time to wear a coat?",
+      "At what point do you put on a coat?"
+    ],
+    "versions_ar": [
+      "When do you wear a coat?",
+      "What is the appropriate time to wear a coat?",
+      "What is the right time to wear a coat?",
+      "At what point do you put on a coat?"
+    ],
+    "choices_ar": [
+      "In summer",
+      "In winter",
+      "At the beach",
+      "While sleeping"
+    ],
+    "answer_ar": "In winter",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "Where do doctors work?",
+    "choices": [
+      "Bank",
+      "Hospital",
+      "Restaurant",
+      "Garage"
+    ],
+    "answer": "Hospital",
+    "category": "Time & Place",
+    "versions": [
+      "Where do doctors work?",
+      "Where are doctors stationed to work?",
+      "Where do medical professionals typically spend their time working?",
+      "What are the common work settings for doctors?"
+    ],
+    "versions_ar": [
+      "Where do doctors work?",
+      "Where are doctors stationed to work?",
+      "Where do medical professionals typically spend their time working?",
+      "What are the common work settings for doctors?"
+    ],
+    "choices_ar": [
+      "Bank",
+      "Hospital",
+      "Restaurant",
+      "Garage"
+    ],
+    "answer_ar": "Hospital",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "What do you do in the afternoon?",
+    "choices": [
+      "Eat dinner",
+      "Go to sleep",
+      "Play or study",
+      "Wake up"
+    ],
+    "answer": "Play or study",
+    "category": "Time & Place",
+    "versions": [
+      "What do you do in the afternoon?",
+      "How do you spend your afternoons?",
+      "How do you spend your leisure time in the afternoon?",
+      "How do you pass your time during the afternoon?"
+    ],
+    "versions_ar": [
+      "What do you do in the afternoon?",
+      "How do you spend your afternoons?",
+      "How do you spend your leisure time in the afternoon?",
+      "How do you pass your time during the afternoon?"
+    ],
+    "choices_ar": [
+      "Eat dinner",
+      "Go to sleep",
+      "Play or study",
+      "Wake up"
+    ],
+    "answer_ar": "Play or study",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "Where do you go to watch movies?",
+    "choices": [
+      "Theater",
+      "Gym",
+      "Bakery",
+      "School"
+    ],
+    "answer": "Theater",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you go to watch movies?",
+      "What is your go-to spot for watching films?",
+      "What is your go-to spot for watching movies?",
+      "Where do you usually watch movies?"
+    ],
+    "versions_ar": [
+      "Where do you go to watch movies?",
+      "What is your go-to spot for watching films?",
+      "What is your go-to spot for watching movies?",
+      "Where do you usually watch movies?"
+    ],
+    "choices_ar": [
+      "Theater",
+      "Gym",
+      "Bakery",
+      "School"
+    ],
+    "answer_ar": "Theater",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "What comes after morning?",
+    "choices": [
+      "Evening",
+      "Night",
+      "Afternoon",
+      "Midnight"
+    ],
+    "answer": "Afternoon",
+    "category": "Time & Place",
+    "versions": [
+      "What comes after morning?",
+      "What transpires after the end of the day?",
+      "What follows the morning meal?",
+      "What transpires after the start of the day?"
+    ],
+    "versions_ar": [
+      "What comes after morning?",
+      "What transpires after the end of the day?",
+      "What follows the morning meal?",
+      "What transpires after the start of the day?"
+    ],
+    "choices_ar": [
+      "Evening",
+      "Night",
+      "Afternoon",
+      "Midnight"
+    ],
+    "answer_ar": "Afternoon",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "Where do you keep your clothes?",
+    "choices": [
+      "Desk",
+      "Closet",
+      "Fridge",
+      "Sink"
+    ],
+    "answer": "Closet",
+    "category": "Time & Place",
+    "versions": [
+      "Where do you keep your clothes?",
+      "Where is the storage location of your clothing?",
+      "Where is the storage location of your clothes?",
+      "Where do you store your clothes?"
+    ],
+    "versions_ar": [
+      "Where do you keep your clothes?",
+      "Where is the storage location of your clothing?",
+      "Where is the storage location of your clothes?",
+      "Where do you store your clothes?"
+    ],
+    "choices_ar": [
+      "Desk",
+      "Closet",
+      "Fridge",
+      "Sink"
+    ],
+    "answer_ar": "Closet",
+    "category_ar": "Time & Place"
+  },
+  {
+    "question": "Where is the cat in this sentence: 'The cat is under the table'?",
+    "choices": [
+      "On the table",
+      "Next to the table",
+      "Under the table",
+      "Behind the table"
+    ],
+    "answer": "Under the table",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the cat in this sentence: 'The cat is under the table'?",
+      "Where can the cat be found in the sentence \"The cat is seated under the table\"?",
+      "In the sentence \"The cat is under the table\", where is the cat situated?",
+      "In the sentence \"The cat is under the table\", where exactly is the cat located?"
+    ],
+    "versions_ar": [
+      "Where is the cat in this sentence: 'The cat is under the table'?",
+      "Where can the cat be found in the sentence \"The cat is seated under the table\"?",
+      "In the sentence \"The cat is under the table\", where is the cat situated?",
+      "In the sentence \"The cat is under the table\", where exactly is the cat located?"
+    ],
+    "choices_ar": [
+      "On the table",
+      "Next to the table",
+      "Under the table",
+      "Behind the table"
+    ],
+    "answer_ar": "Under the table",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "What does 'next to' mean?",
+    "choices": [
+      "Far away",
+      "Very close",
+      "On top",
+      "Inside"
+    ],
+    "answer": "Very close",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What does 'next to' mean?",
+      "Can you explain the definition of 'next to'?",
+      "Could you clarify the significance of 'next to'?",
+      "What is the meaning of 'next to'?"
+    ],
+    "versions_ar": [
+      "What does 'next to' mean?",
+      "Can you explain the definition of 'next to'?",
+      "Could you clarify the significance of 'next to'?",
+      "What is the meaning of 'next to'?"
+    ],
+    "choices_ar": [
+      "Far away",
+      "Very close",
+      "On top",
+      "Inside"
+    ],
+    "answer_ar": "Very close",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "Where is the dog in: 'The dog is behind the sofa'?",
+    "choices": [
+      "In front of the sofa",
+      "Behind the sofa",
+      "Under the sofa",
+      "On the sofa"
+    ],
+    "answer": "Behind the sofa",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the dog in: 'The dog is behind the sofa'?",
+      "Where can the dog be found in the location described as 'The dog is behind the sofa'?",
+      "Where can I find the dog in the passage titled 'The dog is situated behind the sofa'?",
+      "Where can the dog be found in 'The dog is situated behind the sofa'?"
+    ],
+    "versions_ar": [
+      "Where is the dog in: 'The dog is behind the sofa'?",
+      "Where can the dog be found in the location described as 'The dog is behind the sofa'?",
+      "Where can I find the dog in the passage titled 'The dog is situated behind the sofa'?",
+      "Where can the dog be found in 'The dog is situated behind the sofa'?"
+    ],
+    "choices_ar": [
+      "In front of the sofa",
+      "Behind the sofa",
+      "Under the sofa",
+      "On the sofa"
+    ],
+    "answer_ar": "Behind the sofa",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "If the toy is inside the box, where is it?",
+    "choices": [
+      "On the box",
+      "Next to the box",
+      "Inside the box",
+      "Behind the box"
+    ],
+    "answer": "Inside the box",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If the toy is inside the box, where is it?",
+      "In the box, where can I find the toy?",
+      "Where is the toy in the box if there is one?",
+      "Where is the toy in the box?"
+    ],
+    "versions_ar": [
+      "If the toy is inside the box, where is it?",
+      "In the box, where can I find the toy?",
+      "Where is the toy in the box if there is one?",
+      "Where is the toy in the box?"
+    ],
+    "choices_ar": [
+      "On the box",
+      "Next to the box",
+      "Inside the box",
+      "Behind the box"
+    ],
+    "answer_ar": "Inside the box",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "What word tells you something is lower than another object?",
+    "choices": [
+      "Above",
+      "Under",
+      "Next to",
+      "Behind"
+    ],
+    "answer": "Under",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What word tells you something is lower than another object?",
+      "What is the term used to describe something that is smaller than another thing?",
+      "What term indicates that something is situated beneath another thing?",
+      "What is the term for indicating that something is situated below another thing?"
+    ],
+    "versions_ar": [
+      "What word tells you something is lower than another object?",
+      "What is the term used to describe something that is smaller than another thing?",
+      "What term indicates that something is situated beneath another thing?",
+      "What is the term for indicating that something is situated below another thing?"
+    ],
+    "choices_ar": [
+      "Above",
+      "Under",
+      "Next to",
+      "Behind"
+    ],
+    "answer_ar": "Under",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "Where is your nose?",
+    "choices": [
+      "On your hand",
+      "On your arm",
+      "On your face",
+      "On your foot"
+    ],
+    "answer": "On your face",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is your nose?",
+      "What is the location of your nasal cavity?",
+      "In what part of your anatomy does your nose end up?",
+      "What is the location of your nose?"
+    ],
+    "versions_ar": [
+      "Where is your nose?",
+      "What is the location of your nasal cavity?",
+      "In what part of your anatomy does your nose end up?",
+      "What is the location of your nose?"
+    ],
+    "choices_ar": [
+      "On your hand",
+      "On your arm",
+      "On your face",
+      "On your foot"
+    ],
+    "answer_ar": "On your face",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "If a ball is between two chairs, where is it?",
+    "choices": [
+      "On the chairs",
+      "Outside the chairs",
+      "Between the chairs",
+      "Under the chairs"
+    ],
+    "answer": "Between the chairs",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If a ball is between two chairs, where is it?",
+      "Where can a ball be found if it is between two chairs?",
+      "Where can a ball be found if it is placed between two chairs?",
+      "Where can a ball be found if it is sandwiched between two chairs?"
+    ],
+    "versions_ar": [
+      "If a ball is between two chairs, where is it?",
+      "Where can a ball be found if it is between two chairs?",
+      "Where can a ball be found if it is placed between two chairs?",
+      "Where can a ball be found if it is sandwiched between two chairs?"
+    ],
+    "choices_ar": [
+      "On the chairs",
+      "Outside the chairs",
+      "Between the chairs",
+      "Under the chairs"
+    ],
+    "answer_ar": "Between the chairs",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "What does 'above' mean?",
+    "choices": [
+      "Below",
+      "Next to",
+      "On top",
+      "Inside"
+    ],
+    "answer": "On top",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What does 'above' mean?",
+      "What does 'above' signify?",
+      "What is the definition of 'above'?",
+      "Can you explain the meaning of 'above'?"
+    ],
+    "versions_ar": [
+      "What does 'above' mean?",
+      "What does 'above' signify?",
+      "What is the definition of 'above'?",
+      "Can you explain the meaning of 'above'?"
+    ],
+    "choices_ar": [
+      "Below",
+      "Next to",
+      "On top",
+      "Inside"
+    ],
+    "answer_ar": "On top",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "Where do you sit in a classroom?",
+    "choices": [
+      "On the table",
+      "On the chair",
+      "Under the desk",
+      "In the cupboard"
+    ],
+    "answer": "On the chair",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where do you sit in a classroom?",
+      "What is your preferred seating position in a classroom?",
+      "Where do you find yourself in a classroom setting?",
+      "What is your usual spot in a classroom?"
+    ],
+    "versions_ar": [
+      "Where do you sit in a classroom?",
+      "What is your preferred seating position in a classroom?",
+      "Where do you find yourself in a classroom setting?",
+      "What is your usual spot in a classroom?"
+    ],
+    "choices_ar": [
+      "On the table",
+      "On the chair",
+      "Under the desk",
+      "In the cupboard"
+    ],
+    "answer_ar": "On the chair",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "If the sun is in the sky, where is it?",
+    "choices": [
+      "Above you",
+      "Next to you",
+      "Behind you",
+      "Under you"
+    ],
+    "answer": "Above you",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If the sun is in the sky, where is it?",
+      "Where can the sun be found if it's in the sky?",
+      "Where is the sun, if it's in the sky?",
+      "Where can the sun be found if it's up in the sky?"
+    ],
+    "versions_ar": [
+      "If the sun is in the sky, where is it?",
+      "Where can the sun be found if it's in the sky?",
+      "Where is the sun, if it's in the sky?",
+      "Where can the sun be found if it's up in the sky?"
+    ],
+    "choices_ar": [
+      "Above you",
+      "Next to you",
+      "Behind you",
+      "Under you"
+    ],
+    "answer_ar": "Above you",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "Where is the teacher usually standing?",
+    "choices": [
+      "Behind the students",
+      "In front of the class",
+      "Outside the school",
+      "Next to the door"
+    ],
+    "answer": "In front of the class",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the teacher usually standing?",
+      "What is the usual location of the teacher's desk?",
+      "Where is the teacher usually found?",
+      "Where can I find the teacher's usual spot?"
+    ],
+    "versions_ar": [
+      "Where is the teacher usually standing?",
+      "What is the usual location of the teacher's desk?",
+      "Where is the teacher usually found?",
+      "Where can I find the teacher's usual spot?"
+    ],
+    "choices_ar": [
+      "Behind the students",
+      "In front of the class",
+      "Outside the school",
+      "Next to the door"
+    ],
+    "answer_ar": "In front of the class",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "What is 'inside' the pencil case?",
+    "choices": [
+      "The chair",
+      "The pen",
+      "The wall",
+      "The book"
+    ],
+    "answer": "The pen",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What is 'inside' the pencil case?",
+      "What can be found inside the pencil case?",
+      "What is located inside the pencil case?",
+      "What lies inside the pencil case?"
+    ],
+    "versions_ar": [
+      "What is 'inside' the pencil case?",
+      "What can be found inside the pencil case?",
+      "What is located inside the pencil case?",
+      "What lies inside the pencil case?"
+    ],
+    "choices_ar": [
+      "The chair",
+      "The pen",
+      "The wall",
+      "The book"
+    ],
+    "answer_ar": "The pen",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "If your friend is sitting 'beside' you, where is he?",
+    "choices": [
+      "In front of you",
+      "Behind you",
+      "Next to you",
+      "Far from you"
+    ],
+    "answer": "Next to you",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If your friend is sitting 'beside' you, where is he?",
+      "Where is your friend when they are sitting next to you?",
+      "Where is your friend when he sits next to you?",
+      "Where is your friend when they sit next to you?"
+    ],
+    "versions_ar": [
+      "If your friend is sitting 'beside' you, where is he?",
+      "Where is your friend when they are sitting next to you?",
+      "Where is your friend when he sits next to you?",
+      "Where is your friend when they sit next to you?"
+    ],
+    "choices_ar": [
+      "In front of you",
+      "Behind you",
+      "Next to you",
+      "Far from you"
+    ],
+    "answer_ar": "Next to you",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "What does 'behind' mean?",
+    "choices": [
+      "In front",
+      "At the back",
+      "Next to",
+      "Inside"
+    ],
+    "answer": "At the back",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What does 'behind' mean?",
+      "What is the interpretation of 'behind'?",
+      "What is the meaning of 'behind'?",
+      "What does the term 'behind' signify?"
+    ],
+    "versions_ar": [
+      "What does 'behind' mean?",
+      "What is the interpretation of 'behind'?",
+      "What is the meaning of 'behind'?",
+      "What does the term 'behind' signify?"
+    ],
+    "choices_ar": [
+      "In front",
+      "At the back",
+      "Next to",
+      "Inside"
+    ],
+    "answer_ar": "At the back",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "Where is the ball in: 'The ball is on the shelf'?",
+    "choices": [
+      "On the floor",
+      "In the box",
+      "On the shelf",
+      "Next to the box"
+    ],
+    "answer": "On the shelf",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the ball in: 'The ball is on the shelf'?",
+      "Where can the ball be found when someone says 'the ball is on the shelf'?",
+      "What is the location of the ball in the phrase 'The ball is on the shelf'?",
+      "What is the location of the ball when it's said 'The ball is on the shelf'?"
+    ],
+    "versions_ar": [
+      "Where is the ball in: 'The ball is on the shelf'?",
+      "Where can the ball be found when someone says 'the ball is on the shelf'?",
+      "What is the location of the ball in the phrase 'The ball is on the shelf'?",
+      "What is the location of the ball when it's said 'The ball is on the shelf'?"
+    ],
+    "choices_ar": [
+      "On the floor",
+      "In the box",
+      "On the shelf",
+      "Next to the box"
+    ],
+    "answer_ar": "On the shelf",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "What’s the opposite of 'above'?",
+    "choices": [
+      "On",
+      "Inside",
+      "Under",
+      "Next to"
+    ],
+    "answer": "Under",
+    "category": "Spatial Awareness",
+    "versions": [
+      "What’s the opposite of 'above'?",
+      "What is the antonym of 'above'?",
+      "What is the opposite of 'above'?",
+      "What is the contrary of 'above'?"
+    ],
+    "versions_ar": [
+      "What’s the opposite of 'above'?",
+      "What is the antonym of 'above'?",
+      "What is the opposite of 'above'?",
+      "What is the contrary of 'above'?"
+    ],
+    "choices_ar": [
+      "On",
+      "Inside",
+      "Under",
+      "Next to"
+    ],
+    "answer_ar": "Under",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "If the box is in front of the boy, where is the boy?",
+    "choices": [
+      "Behind the box",
+      "Inside the box",
+      "On top of the box",
+      "Next to the box"
+    ],
+    "answer": "Behind the box",
+    "category": "Spatial Awareness",
+    "versions": [
+      "If the box is in front of the boy, where is the boy?",
+      "In the box, where is the boy located if he is in front of it?",
+      "In the box, where is the boy located if he is standing?",
+      "Where can the boy be found if he is in the box in front of him?"
+    ],
+    "versions_ar": [
+      "If the box is in front of the boy, where is the boy?",
+      "In the box, where is the boy located if he is in front of it?",
+      "In the box, where is the boy located if he is standing?",
+      "Where can the boy be found if he is in the box in front of him?"
+    ],
+    "choices_ar": [
+      "Behind the box",
+      "Inside the box",
+      "On top of the box",
+      "Next to the box"
+    ],
+    "answer_ar": "Behind the box",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "Where do you put your shoes?",
+    "choices": [
+      "On your head",
+      "On your feet",
+      "On your hands",
+      "On the table"
+    ],
+    "answer": "On your feet",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where do you put your shoes?",
+      "What is the correct placement for your shoes?",
+      "Where do you store your footwear?",
+      "What is the proper placement for your shoes?"
+    ],
+    "versions_ar": [
+      "Where do you put your shoes?",
+      "What is the correct placement for your shoes?",
+      "Where do you store your footwear?",
+      "What is the proper placement for your shoes?"
+    ],
+    "choices_ar": [
+      "On your head",
+      "On your feet",
+      "On your hands",
+      "On the table"
+    ],
+    "answer_ar": "On your feet",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "Where is the kitchen in most houses?",
+    "choices": [
+      "In the garden",
+      "In the garage",
+      "Inside the house",
+      "On the roof"
+    ],
+    "answer": "Inside the house",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the kitchen in most houses?",
+      "In what part of a home can the kitchen be found?",
+      "Where can one find the majority of a household's kitchen facilities?",
+      "What is the typical location of the kitchen in a household?"
+    ],
+    "versions_ar": [
+      "Where is the kitchen in most houses?",
+      "In what part of a home can the kitchen be found?",
+      "Where can one find the majority of a household's kitchen facilities?",
+      "What is the typical location of the kitchen in a household?"
+    ],
+    "choices_ar": [
+      "In the garden",
+      "In the garage",
+      "Inside the house",
+      "On the roof"
+    ],
+    "answer_ar": "Inside the house",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "Where is the clock usually placed in a classroom?",
+    "choices": [
+      "On the floor",
+      "Under the table",
+      "On the wall",
+      "In the drawer"
+    ],
+    "answer": "On the wall",
+    "category": "Spatial Awareness",
+    "versions": [
+      "Where is the clock usually placed in a classroom?",
+      "What is the customary placement of the clock in a classroom?",
+      "What is the typical placement of the clock in a classroom?",
+      "Where is the typical placement of clocks in a classroom?"
+    ],
+    "versions_ar": [
+      "Where is the clock usually placed in a classroom?",
+      "What is the customary placement of the clock in a classroom?",
+      "What is the typical placement of the clock in a classroom?",
+      "Where is the typical placement of clocks in a classroom?"
+    ],
+    "choices_ar": [
+      "On the floor",
+      "Under the table",
+      "On the wall",
+      "In the drawer"
+    ],
+    "answer_ar": "On the wall",
+    "category_ar": "Spatial Awareness"
+  },
+  {
+    "question": "Which direction do you turn if you move to your right?",
+    "choices": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer": "Right",
+    "category": "Directionality",
+    "versions": [
+      "Which direction do you turn if you move to your right?",
+      "What is the direction of movement when you move to the right?",
+      "If you move towards the right, which direction will you take?",
+      "What is the direction of movement when you shift to the right?"
+    ],
+    "versions_ar": [
+      "Which direction do you turn if you move to your right?",
+      "What is the direction of movement when you move to the right?",
+      "If you move towards the right, which direction will you take?",
+      "What is the direction of movement when you shift to the right?"
+    ],
+    "choices_ar": [
+      "Left",
+      "Right",
+      "Up",
+      "Down"
+    ],
+    "answer_ar": "Right",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "If you are facing north and turn left, what direction are you facing now?",
+    "choices": [
+      "East",
+      "South",
+      "West",
+      "North"
+    ],
+    "answer": "West",
+    "category": "Directionality",
+    "versions": [
+      "If you are facing north and turn left, what direction are you facing now?",
+      "If you turn left and face north, what is the direction you are facing?",
+      "What is the direction you are facing when turning left facing north?",
+      "If you turn left and face north, what direction will you face?"
+    ],
+    "versions_ar": [
+      "If you are facing north and turn left, what direction are you facing now?",
+      "If you turn left and face north, what is the direction you are facing?",
+      "What is the direction you are facing when turning left facing north?",
+      "If you turn left and face north, what direction will you face?"
+    ],
+    "choices_ar": [
+      "East",
+      "South",
+      "West",
+      "North"
+    ],
+    "answer_ar": "West",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "Which direction is opposite to up?",
+    "choices": [
+      "Down",
+      "Left",
+      "Right",
+      "Behind"
+    ],
+    "answer": "Down",
+    "category": "Directionality",
+    "versions": [
+      "Which direction is opposite to up?",
+      "What is the opposite direction of up?",
+      "What is the direction of the sun's gravitational pull towards the sky?",
+      "What is the direction of the sun's gravitational pull towards up?"
+    ],
+    "versions_ar": [
+      "Which direction is opposite to up?",
+      "What is the opposite direction of up?",
+      "What is the direction of the sun's gravitational pull towards the sky?",
+      "What is the direction of the sun's gravitational pull towards up?"
+    ],
+    "choices_ar": [
+      "Down",
+      "Left",
+      "Right",
+      "Behind"
+    ],
+    "answer_ar": "Down",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "If you walk backward, where are you going?",
+    "choices": [
+      "Forward",
+      "Back",
+      "Up",
+      "Right"
+    ],
+    "answer": "Back",
+    "category": "Directionality",
+    "versions": [
+      "If you walk backward, where are you going?",
+      "If you were to walk in the opposite direction, where would you go?",
+      "What is the destination if you reverse your walking?",
+      "If you were to walk in reverse, where would you go?"
+    ],
+    "versions_ar": [
+      "If you walk backward, where are you going?",
+      "If you were to walk in the opposite direction, where would you go?",
+      "What is the destination if you reverse your walking?",
+      "If you were to walk in reverse, where would you go?"
+    ],
+    "choices_ar": [
+      "Forward",
+      "Back",
+      "Up",
+      "Right"
+    ],
+    "answer_ar": "Back",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "What direction is opposite to right?",
+    "choices": [
+      "Up",
+      "Down",
+      "Left",
+      "Back"
+    ],
+    "answer": "Left",
+    "category": "Directionality",
+    "versions": [
+      "What direction is opposite to right?",
+      "Which direction is in the opposite direction?",
+      "What is the opposite direction of the right?",
+      "What is the opposite direction to the right?"
+    ],
+    "versions_ar": [
+      "What direction is opposite to right?",
+      "Which direction is in the opposite direction?",
+      "What is the opposite direction of the right?",
+      "What is the opposite direction to the right?"
+    ],
+    "choices_ar": [
+      "Up",
+      "Down",
+      "Left",
+      "Back"
+    ],
+    "answer_ar": "Left",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "If the ball is in front of the box, where is the box?",
+    "choices": [
+      "Behind the ball",
+      "In front of the ball",
+      "Next to the ball",
+      "Above the ball"
+    ],
+    "answer": "Behind the ball",
+    "category": "Directionality",
+    "versions": [
+      "If the ball is in front of the box, where is the box?",
+      "Where can the ball be found if it is in front of the box?",
+      "If the ball is in front of the box, where is the location of the ball?",
+      "Where is the ball in front of the box if it is in front of it?"
+    ],
+    "versions_ar": [
+      "If the ball is in front of the box, where is the box?",
+      "Where can the ball be found if it is in front of the box?",
+      "If the ball is in front of the box, where is the location of the ball?",
+      "Where is the ball in front of the box if it is in front of it?"
+    ],
+    "choices_ar": [
+      "Behind the ball",
+      "In front of the ball",
+      "Next to the ball",
+      "Above the ball"
+    ],
+    "answer_ar": "Behind the ball",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "What direction do you look to see the ceiling?",
+    "choices": [
+      "Down",
+      "Left",
+      "Up",
+      "Back"
+    ],
+    "answer": "Up",
+    "category": "Directionality",
+    "versions": [
+      "What direction do you look to see the ceiling?",
+      "Which direction do you tend to look at in order to see the ceiling?",
+      "Which direction do you tend to look towards to see the top of the sky?",
+      "What direction do you tend to take to see the ceiling?"
+    ],
+    "versions_ar": [
+      "What direction do you look to see the ceiling?",
+      "Which direction do you tend to look at in order to see the ceiling?",
+      "Which direction do you tend to look towards to see the top of the sky?",
+      "What direction do you tend to take to see the ceiling?"
+    ],
+    "choices_ar": [
+      "Down",
+      "Left",
+      "Up",
+      "Back"
+    ],
+    "answer_ar": "Up",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "If a person is standing behind you, where are they?",
+    "choices": [
+      "In front of you",
+      "Next to you",
+      "Behind you",
+      "Above you"
+    ],
+    "answer": "Behind you",
+    "category": "Directionality",
+    "versions": [
+      "If a person is standing behind you, where are they?",
+      "Where is the person standing in your way?",
+      "If someone is behind you, where is he?",
+      "If someone is following you, where is the person?"
+    ],
+    "versions_ar": [
+      "If a person is standing behind you, where are they?",
+      "Where is the person standing in your way?",
+      "If someone is behind you, where is he?",
+      "If someone is following you, where is the person?"
+    ],
+    "choices_ar": [
+      "In front of you",
+      "Next to you",
+      "Behind you",
+      "Above you"
+    ],
+    "answer_ar": "Behind you",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "Which direction does the sun rise from?",
+    "choices": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "answer": "East",
+    "category": "Directionality",
+    "versions": [
+      "Which direction does the sun rise from?",
+      "Which direction does the sun rise in?",
+      "What is the direction of the sun's rising?",
+      "What is the direction of the sun's rise?"
+    ],
+    "versions_ar": [
+      "Which direction does the sun rise from?",
+      "Which direction does the sun rise in?",
+      "What is the direction of the sun's rising?",
+      "What is the direction of the sun's rise?"
+    ],
+    "choices_ar": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "answer_ar": "East",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "Which way do you move to go downstairs?",
+    "choices": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer": "Down",
+    "category": "Directionality",
+    "versions": [
+      "Which way do you move to go downstairs?",
+      "In which direction do you go to descend stairs?",
+      "What is your method for going down the stairs?",
+      "How do you go down the stairs?"
+    ],
+    "versions_ar": [
+      "Which way do you move to go downstairs?",
+      "In which direction do you go to descend stairs?",
+      "What is your method for going down the stairs?",
+      "How do you go down the stairs?"
+    ],
+    "choices_ar": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "answer_ar": "Down",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "If your right hand is raised, which side is it?",
+    "choices": [
+      "Left",
+      "Right",
+      "Top",
+      "Back"
+    ],
+    "answer": "Right",
+    "category": "Directionality",
+    "versions": [
+      "If your right hand is raised, which side is it?",
+      "What is the position of the raised right hand in relation to the rest of the hand?",
+      "If you have a raised right hand, which side do you stand?",
+      "Which side of your hand does the raised right hand belong to?"
+    ],
+    "versions_ar": [
+      "If your right hand is raised, which side is it?",
+      "What is the position of the raised right hand in relation to the rest of the hand?",
+      "If you have a raised right hand, which side do you stand?",
+      "Which side of your hand does the raised right hand belong to?"
+    ],
+    "choices_ar": [
+      "Left",
+      "Right",
+      "Top",
+      "Back"
+    ],
+    "answer_ar": "Right",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "What direction do you face if you turn around completely?",
+    "choices": [
+      "Same as before",
+      "Opposite direction",
+      "Right",
+      "Left"
+    ],
+    "answer": "Opposite direction",
+    "category": "Directionality",
+    "versions": [
+      "What direction do you face if you turn around completely?",
+      "What is the direction you turn to face when you turn completely?",
+      "What is the direction you turn to when you turn completely?",
+      "When you turn around, what is the direction you turn towards?"
+    ],
+    "versions_ar": [
+      "What direction do you face if you turn around completely?",
+      "What is the direction you turn to face when you turn completely?",
+      "What is the direction you turn to when you turn completely?",
+      "When you turn around, what is the direction you turn towards?"
+    ],
+    "choices_ar": [
+      "Same as before",
+      "Opposite direction",
+      "Right",
+      "Left"
+    ],
+    "answer_ar": "Opposite direction",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "Which direction is between north and east?",
+    "choices": [
+      "Northeast",
+      "South",
+      "West",
+      "Southeast"
+    ],
+    "answer": "Northeast",
+    "category": "Directionality",
+    "versions": [
+      "Which direction is between north and east?",
+      "What is the direction of travel from north to east?",
+      "Is there a direction that separates the north and east?",
+      "What is the direction of movement from north to east?"
+    ],
+    "versions_ar": [
+      "Which direction is between north and east?",
+      "What is the direction of travel from north to east?",
+      "Is there a direction that separates the north and east?",
+      "What is the direction of movement from north to east?"
+    ],
+    "choices_ar": [
+      "Northeast",
+      "South",
+      "West",
+      "Southeast"
+    ],
+    "answer_ar": "Northeast",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "If you move to your left and then go down, where are you going?",
+    "choices": [
+      "Up",
+      "Forward",
+      "Left and down",
+      "Right"
+    ],
+    "answer": "Left and down",
+    "category": "Directionality",
+    "versions": [
+      "If you move to your left and then go down, where are you going?",
+      "What is the destination if you move leftward and then start descending?",
+      "If you move leftward and then go downhill, where do you intend to go?",
+      "If you move left, and then go down, where do you go next?"
+    ],
+    "versions_ar": [
+      "If you move to your left and then go down, where are you going?",
+      "What is the destination if you move leftward and then start descending?",
+      "If you move leftward and then go downhill, where do you intend to go?",
+      "If you move left, and then go down, where do you go next?"
+    ],
+    "choices_ar": [
+      "Up",
+      "Forward",
+      "Left and down",
+      "Right"
+    ],
+    "answer_ar": "Left and down",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "Which direction is opposite to forward?",
+    "choices": [
+      "Right",
+      "Left",
+      "Backward",
+      "Up"
+    ],
+    "answer": "Backward",
+    "category": "Directionality",
+    "versions": [
+      "Which direction is opposite to forward?",
+      "What is the opposite axis to the forward?",
+      "What is the opposite direction of the forward direction?",
+      "What is the opposite direction?"
+    ],
+    "versions_ar": [
+      "Which direction is opposite to forward?",
+      "What is the opposite axis to the forward?",
+      "What is the opposite direction of the forward direction?",
+      "What is the opposite direction?"
+    ],
+    "choices_ar": [
+      "Right",
+      "Left",
+      "Backward",
+      "Up"
+    ],
+    "answer_ar": "Backward",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "What direction do you take to open a door inwards?",
+    "choices": [
+      "Push",
+      "Pull",
+      "Turn right",
+      "Turn left"
+    ],
+    "answer": "Push",
+    "category": "Directionality",
+    "versions": [
+      "What direction do you take to open a door inwards?",
+      "What is the orientation of a door when it is opened inwardly?",
+      "In which direction do you open a door?",
+      "What is the direction you open a door in?"
+    ],
+    "versions_ar": [
+      "What direction do you take to open a door inwards?",
+      "What is the orientation of a door when it is opened inwardly?",
+      "In which direction do you open a door?",
+      "What is the direction you open a door in?"
+    ],
+    "choices_ar": [
+      "Push",
+      "Pull",
+      "Turn right",
+      "Turn left"
+    ],
+    "answer_ar": "Push",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "If you're facing east and turn right, where are you facing?",
+    "choices": [
+      "South",
+      "North",
+      "West",
+      "East"
+    ],
+    "answer": "South",
+    "category": "Directionality",
+    "versions": [
+      "If you're facing east and turn right, where are you facing?",
+      "If you turn right and face east, where do you find yourself?",
+      "When you turn right and face east, where is the destination?",
+      "If you turn right and face east, where do you currently stand?"
+    ],
+    "versions_ar": [
+      "If you're facing east and turn right, where are you facing?",
+      "If you turn right and face east, where do you find yourself?",
+      "When you turn right and face east, where is the destination?",
+      "If you turn right and face east, where do you currently stand?"
+    ],
+    "choices_ar": [
+      "South",
+      "North",
+      "West",
+      "East"
+    ],
+    "answer_ar": "South",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "Where is the moon usually seen at night?",
+    "choices": [
+      "Below",
+      "Up",
+      "Left",
+      "Next to the sun"
+    ],
+    "answer": "Up",
+    "category": "Directionality",
+    "versions": [
+      "Where is the moon usually seen at night?",
+      "What is the usual place to view the moon?",
+      "What is the usual place to view the moon during nighttime?",
+      "What is the usual place to observe the moon during nighttime?"
+    ],
+    "versions_ar": [
+      "Where is the moon usually seen at night?",
+      "What is the usual place to view the moon?",
+      "What is the usual place to view the moon during nighttime?",
+      "What is the usual place to observe the moon during nighttime?"
+    ],
+    "choices_ar": [
+      "Below",
+      "Up",
+      "Left",
+      "Next to the sun"
+    ],
+    "answer_ar": "Up",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "What direction is the opposite of north?",
+    "choices": [
+      "East",
+      "West",
+      "South",
+      "Northeast"
+    ],
+    "answer": "South",
+    "category": "Directionality",
+    "versions": [
+      "What direction is the opposite of north?",
+      "What is the reverse of north?",
+      "What is the antonym of north?",
+      "What is the lateral direction of north and south?"
+    ],
+    "versions_ar": [
+      "What direction is the opposite of north?",
+      "What is the reverse of north?",
+      "What is the antonym of north?",
+      "What is the lateral direction of north and south?"
+    ],
+    "choices_ar": [
+      "East",
+      "West",
+      "South",
+      "Northeast"
+    ],
+    "answer_ar": "South",
+    "category_ar": "Directionality"
+  },
+  {
+    "question": "Which side is your left hand on?",
+    "choices": [
+      "Right side",
+      "Back",
+      "Front",
+      "Left side"
+    ],
+    "answer": "Left side",
+    "category": "Directionality",
+    "versions": [
+      "Which side is your left hand on?",
+      "What is the location of your left palm?",
+      "What is the position of your left hand?",
+      "On which direction is your left hand situated?"
+    ],
+    "versions_ar": [
+      "Which side is your left hand on?",
+      "What is the location of your left palm?",
+      "What is the position of your left hand?",
+      "On which direction is your left hand situated?"
+    ],
+    "choices_ar": [
+      "Right side",
+      "Back",
+      "Front",
+      "Left side"
+    ],
+    "answer_ar": "Left side",
+    "category_ar": "Directionality"
+  }
+]
